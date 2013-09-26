@@ -1,6 +1,6 @@
-# Public APT Notes
+# APT Notes
 
-This is a repository for various documents and notes related to APTs sorted by year.
+This is a repository for various public documents and notes related to APTs sorted by year.
 
 ## 2010
 * XXX ?? - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
