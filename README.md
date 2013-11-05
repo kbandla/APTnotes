@@ -25,6 +25,7 @@ This is a repository for various public documents and notes related to APTs sort
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
 
 ## 2013
+* Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
