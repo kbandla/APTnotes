@@ -1,9 +1,13 @@
 # APT Notes
 
-This is a repository for various public documents and notes related to APTs sorted by year.
+This is a repository for various publicly-available documents and notes related to APTs sorted by year.
 
 ## 2010
 * XXX ?? - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
+* Jan 13 - [The Command Structure of the Aurora Botnet - Damballa](https://www.damballa.com/downloads/r_pubs/Aurora_Botnet_Command_Structure.pdf)
+* Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf)
+* Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf)
+* Jan ?? - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
 * Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052)
 * Dec 09 - [The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability ](http://www.fas.org/sgp/crs/natsec/R41524.pdf)
 
@@ -26,6 +30,8 @@ This is a repository for various public documents and notes related to APTs sort
 
 ## 2013
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
+* Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
+* May ?? - [Operation Hangover Appendixes](http://normanshark.com/pdf/Unveiling%20an%20Indian%20Cyberattack%20Infrastructure%20-%20appendixes.pdf)
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
