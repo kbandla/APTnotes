@@ -57,3 +57,5 @@ This is a repository for various publicly-available documents and notes related 
 ## 2014
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
 * Jan 14 - [The Icefog APT Hits US Targets With Java Backdoor](https://www.securelist.com/en/blog/208214213/The_Icefog_APT_Hits_US_Targets_With_Java_Backdoor)
+* Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
+* Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
