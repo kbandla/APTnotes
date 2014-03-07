@@ -2,8 +2,11 @@
 
 This is a repository for various publicly-available documents and notes related to APTs, sorted by year.
 
+## 2008
+* Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
+
 ## 2010
-* XXX ?? - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
+* Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
 * Jan 13 - [The Command Structure of the Aurora Botnet - Damballa](https://www.damballa.com/downloads/r_pubs/Aurora_Botnet_Command_Structure.pdf)
 * Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf)
 * Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf)
@@ -59,3 +62,4 @@ This is a repository for various publicly-available documents and notes related 
 * Jan 14 - [The Icefog APT Hits US Targets With Java Backdoor](https://www.securelist.com/en/blog/208214213/The_Icefog_APT_Hits_US_Targets_With_Java_Backdoor)
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
 * Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
+* Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
