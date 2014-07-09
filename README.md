@@ -1,6 +1,7 @@
 # APT Notes
 
-This is a repository for various publicly-available documents and notes related to APTs, sorted by year.
+This is a repository for various publicly-available documents and notes related to APT, sorted by year.
+For malware sample hashes, please see the individual reports
 
 ## 2008
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
@@ -55,12 +56,17 @@ This is a repository for various publicly-available documents and notes related 
 * Sep ?? - [Feature: EvilGrab Campaign Targets Diplomatic Agencies](http://about-threats.trendmicro.com/cloud-content/us/ent-primers/pdf/2q-report-on-targeted-attack-campaigns.pdf)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
 * Sep 25 - [The 'ICEFROG' APT: A Tale of cloak and three daggers](http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf)
+* Oct 24 - [Terminator RAT](http://www.fireeye.com/blog/technical/malware-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
+* ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf)
 
 ## 2014
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
 * Jan 14 - [The Icefog APT Hits US Targets With Java Backdoor](https://www.securelist.com/en/blog/208214213/The_Icefog_APT_Hits_US_Targets_With_Java_Backdoor)
+* Jan 21 - [Shell_Crew (Deep Panda)](http://www.emc.com/collateral/white-papers/h12756-wp-shell-crew.pdf)
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
+* Feb 20 - [Mo' Shells Mo' Problems - Deep Panda Web Shells](http://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/)
 * Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
+* Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
