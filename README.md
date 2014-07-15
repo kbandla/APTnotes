@@ -27,6 +27,7 @@ For malware sample hashes, please see the individual reports
 * Oct 26 - [Duqu Trojan Questions and Answers](http://www.secureworks.com/cyber-threat-intelligence/threats/duqu/)
 
 ## 2012
+* Jan 03 - [The HeartBeat APT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf)
 * Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
 * May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
