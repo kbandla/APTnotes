@@ -28,10 +28,15 @@ For malware sample hashes, please see the individual reports
 
 ## 2012
 * Jan 03 - [The HeartBeat APT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf)
+* Feb ?? - [Command and Control in the Fifth Domain](http://www.commandfive.com/papers/C5_APT_C2InTheFifthDomain.pdf)
 * Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
+* Mar 12 - [Crouching Tiger, Hidden Dragon, Stolen Data](http://www.contextis.com/services/research/white-papers/crouching-tiger-hidden-dragon-stolen-data/)
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
+* Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
+* Jul 10 - [Advanced Social Engineering for the Distribution of LURK Malware](https://citizenlab.org/wp-content/uploads/2012/07/10-2012-recentobservationsintibet.pdf)
 * Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
+* Aug 09 - [Gauss: Abnormal Distribution](http://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/kaspersky-lab-gauss.pdf)
 * Sep 06 - [The Elderwood Project](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
@@ -56,6 +61,7 @@ For malware sample hashes, please see the individual reports
 * Aug 19 - [ByeBye Shell and the targeting of Pakistan](https://community.rapid7.com/community/infosec/blog/2013/08/19/byebye-and-the-targeting-of-pakistan)
 * Aug 23 - [Operation Molerats: Middle East Cyber Attacks Using Poison Ivy](http://www.fireeye.com/blog/technical/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html)
 * Sep ?? - [Feature: EvilGrab Campaign Targets Diplomatic Agencies](http://about-threats.trendmicro.com/cloud-content/us/ent-primers/pdf/2q-report-on-targeted-attack-campaigns.pdf)
+* Sep 11 - [The "Kimsuky" Operation](https://securelist.com/analysis/57915/the-kimsuky-operation-a-north-korean-apt/)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
 * Sep 25 - [The 'ICEFROG' APT: A Tale of cloak and three daggers](http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf)
 * Oct 24 - [Terminator RAT](http://www.fireeye.com/blog/technical/malware-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf)
