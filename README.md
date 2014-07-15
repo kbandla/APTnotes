@@ -31,6 +31,7 @@ For malware sample hashes, please see the individual reports
 * Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
 * May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
+* Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
 * Sep 06 - [The Elderwood Project](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
