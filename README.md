@@ -1,7 +1,18 @@
 # APT Notes
-
 This is a repository for various publicly-available documents and notes related to APT, sorted by year.
 For malware sample hashes, please see the individual reports
+
+## Contributing
+For the moment, it would be nice to have a PDF of the article that we add to the 
+list, just to be sure we always have a copy. 
+
+To contribute:
+* Add the link to the README.md page
+* Add the PDF file to the appropriate year
+
+Then, you can either:
+* Fork, add and send me a pull request
+* Open a ticket with the data you want to be added
 
 ## 2008
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
@@ -47,6 +58,7 @@ For malware sample hashes, please see the individual reports
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
 * Feb 27 - [The MiniDuke Mystery: PDF 0-day Government Spy Assembler 0x29A Micro Backdoor](https://www.securelist.com/en/downloads/vlpdfs/themysteryofthepdf0-dayassemblermicrobackdoor.pdf)
 * Mar 13 - [You Only Click Twice: FinFisher’s Global Proliferation](https://citizenlab.org/wp-content/uploads/2013/07/15-2013-youonlyclicktwice.pdf)
+* Mar 17 - [Safe: A Targeted Threat](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-safe-a-targeted-threat.pdf)
 * Mar 27 - [APT1: technical backstage (Terminator/Fakem RAT)](http://www.malware.lu/Pro/RAP002_APT1_Technical_backstage.1.0.pdf)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
@@ -75,6 +87,7 @@ For malware sample hashes, please see the individual reports
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
 * Feb 20 - [Mo' Shells Mo' Problems - Deep Panda Web Shells](http://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/)
 * Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
+* Mar 06 - [The Siesta Campaign](http://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
