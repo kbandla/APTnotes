@@ -51,6 +51,7 @@ Then, you can either:
 * Sep 06 - [The Elderwood Project](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
+* Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://download01.norman.no/whitepapers/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
 
 ## 2013
 * Jan 18 - [Ooperation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
@@ -68,6 +69,7 @@ Then, you can either:
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Aug ?? - [Operation Hangover - Unveiling an Indian Cyberattack Infrastructure](http://normanshark.com/wp-content/uploads/2013/08/NS-Unveiling-an-Indian-Cyberattack-Infrastructure_FINAL_Web.pdf)
+* Aug ?? - [APT Attacks on Indian Cyber Space](http://g0s.org/wp-content/uploads/2013/downloads/Inside_Report_by_Infosec_Consortium.pdf)
 * Aug 02 - [Where There is Smoke, There is Fire: South Asian Cyber Espionage Heats Up](http://www.threatconnect.com/news/where-there-is-smoke-there-is-fire-south-asian-cyber-espionage-heats-up/)
 * Aug 02 - [Surtr: Malware Family Targeting the Tibetan Community](https://citizenlab.org/2013/08/surtr-malware-family-targeting-the-tibetan-community/)
 * Aug 19 - [ByeBye Shell and the targeting of Pakistan](https://community.rapid7.com/community/infosec/blog/2013/08/19/byebye-and-the-targeting-of-pakistan)
@@ -91,4 +93,5 @@ Then, you can either:
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
+* Jun 30 - [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf)
 * Jul 11 - [Pitty Tiger](http://bitbucket.cassidiancybersecurity.com/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf)
