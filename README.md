@@ -6,13 +6,13 @@ For malware sample hashes, please see the individual reports
 For the moment, it would be nice to have a PDF of the article that we add to the 
 list, just to be sure we always have a copy. 
 
-To contribute:
-* Add the link to the README.md page
-* Add the PDF file to the appropriate year
-
-Then, you can either:
+To contribute, you can either:
 * Fork, add and send me a pull request
 * Open a ticket with the data you want to be added
+
+Adding data:
+* Add a link to the public document to Documents.md page
+* Add the PDF file to the appropriate year
 
 ## 2008
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
@@ -24,6 +24,7 @@ Then, you can either:
 * Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf)
 * Jan ?? - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
 * Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052)
+* Sep 03 - [The "MSUpdater" Trojan And Ongoing Targeted Attacks](http://www.seculert.com/reports/MSUpdaterTrojanWhitepaper.pdf)
 * Dec 09 - [The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability ](http://www.fas.org/sgp/crs/natsec/R41524.pdf)
 
 ## 2011
