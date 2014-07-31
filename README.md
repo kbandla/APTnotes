@@ -96,3 +96,4 @@ Adding data:
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
 * Jun 30 - [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf)
 * Jul 11 - [Pitty Tiger](http://bitbucket.cassidiancybersecurity.com/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf)
+* Jul 31 - [Energetic Bear – Crouching Yeti](https://kasperskycontenthub.com/securelist/files/2014/07/EB-YetiJuly2014-Public.pdf)
