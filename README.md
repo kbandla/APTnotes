@@ -50,6 +50,7 @@ Adding data:
 * Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
 * Aug 09 - [Gauss: Abnormal Distribution](http://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/kaspersky-lab-gauss.pdf)
 * Sep 06 - [The Elderwood Project](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
+* Sep 07 - [IEXPLORE RAT](https://citizenlab.org/wp-content/uploads/2012/09/IEXPL0RE_RAT.pdf)
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
 * Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://download01.norman.no/whitepapers/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
