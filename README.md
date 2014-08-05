@@ -62,6 +62,7 @@ Adding data:
 * Feb 27 - [The MiniDuke Mystery: PDF 0-day Government Spy Assembler 0x29A Micro Backdoor](https://www.securelist.com/en/downloads/vlpdfs/themysteryofthepdf0-dayassemblermicrobackdoor.pdf)
 * Mar 13 - [You Only Click Twice: FinFisher’s Global Proliferation](https://citizenlab.org/wp-content/uploads/2013/07/15-2013-youonlyclicktwice.pdf)
 * Mar 17 - [Safe: A Targeted Threat](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-safe-a-targeted-threat.pdf)
+* Mar 20 - [Dissecting Operation Troy](http://www.mcafee.com/sg/resources/white-papers/wp-dissecting-operation-troy.pdf)
 * Mar 27 - [APT1: technical backstage (Terminator/Fakem RAT)](http://www.malware.lu/Pro/RAP002_APT1_Technical_backstage.1.0.pdf)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
