@@ -81,6 +81,7 @@ Adding data:
 * Sep 25 - [The 'ICEFROG' APT: A Tale of cloak and three daggers](http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf)
 * Oct 24 - [Terminator RAT](http://www.fireeye.com/blog/technical/malware-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
+* Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)
 * ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf)
 
 ## 2014
