@@ -70,6 +70,7 @@ Adding data:
 * Jun ?? - [The Chinese Malware Complexes: The Maudi Surveillance Operation](http://normanshark.com/wp-content/uploads/2013/06/NormanShark-MaudiOperation.pdf)
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
+* Jul 15 - [PlugX revisited: "Smoaler"](http://sophosnews.files.wordpress.com/2013/07/sophosszappanosplugxrevisitedintroducingsmoaler-rev1.pdf)
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Aug ?? - [Operation Hangover - Unveiling an Indian Cyberattack Infrastructure](http://normanshark.com/wp-content/uploads/2013/08/NS-Unveiling-an-Indian-Cyberattack-Infrastructure_FINAL_Web.pdf)
 * Aug ?? - [APT Attacks on Indian Cyber Space](http://g0s.org/wp-content/uploads/2013/downloads/Inside_Report_by_Infosec_Consortium.pdf)
