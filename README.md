@@ -106,3 +106,4 @@ Adding data:
 * Jul 31 - [Energetic Bear/Crouching Yeti Appendix](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2014/07/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf)
 * Aug 05 - [Operation Arachnophobia](http://threatc.s3-website-us-east-1.amazonaws.com/?/arachnophobia)
 * Aug 06 - [Operation Poisoned Hurricane](http://www.fireeye.com/blog/technical/targeted-attack/2014/08/operation-poisoned-hurricane.html)
+* Aug 07 - [The Epic Turla Operation Appendix](https://securelist.com/files/2014/08/KL_Epic_Turla_Technical_Appendix_20140806.pdf)
