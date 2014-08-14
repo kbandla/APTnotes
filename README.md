@@ -109,4 +109,5 @@ Adding data:
 * Aug 05 - [Operation Arachnophobia](http://threatc.s3-website-us-east-1.amazonaws.com/?/arachnophobia)
 * Aug 06 - [Operation Poisoned Hurricane](http://www.fireeye.com/blog/technical/targeted-attack/2014/08/operation-poisoned-hurricane.html)
 * Aug 07 - [The Epic Turla Operation Appendix](https://securelist.com/files/2014/08/KL_Epic_Turla_Technical_Appendix_20140806.pdf)
+* Aug 12 - [New York Times Attackers Evolve Quickly (Aumlib/Ixeshe)](http://www.fireeye.com/blog/technical/2013/08/survival-of-the-fittest-new-york-times-attackers-evolve-quickly.html)
 * Aug 13 - [A Look at Targeted Attacks Through the Lense of an NGO](http://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
