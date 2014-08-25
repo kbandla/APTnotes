@@ -117,4 +117,5 @@ Adding data:
 * Aug 13 - [A Look at Targeted Attacks Through the Lense of an NGO](http://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
 * Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/)
 * Aug 20 - [El Machete](https://securelist.com/blog/research/66108/el-machete/)
-* 
+* Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html) 
+
