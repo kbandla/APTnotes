@@ -47,6 +47,7 @@ Adding data:
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
 * Jul 10 - [Advanced Social Engineering for the Distribution of LURK Malware](https://citizenlab.org/wp-content/uploads/2012/07/10-2012-recentobservationsintibet.pdf)
+* Jul 11 - [Wired article on DarkComet creator](http://www.wired.com/2012/07/dark-comet-syrian-spy-tool/)
 * Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
 * Aug 09 - [Gauss: Abnormal Distribution](http://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/kaspersky-lab-gauss.pdf)
 * Sep 06 - [The Elderwood Project](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
@@ -97,6 +98,7 @@ Adding data:
 * Jan 21 - [Shell_Crew (Deep Panda)](http://www.emc.com/collateral/white-papers/h12756-wp-shell-crew.pdf)
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
 * Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
+* Feb 19 - [XtremeRAT: Nuisance or Threat?](http://www.fireeye.com/blog/technical/2014/02/xtremerat-nuisance-or-threat.html)
 * Feb 20 - [Operation GreedyWonk: Multiple Economic and Foreign Policy Sites Compromised, Serving Up Flash Zero-Day Exploit](http://www.fireeye.com/blog/technical/targeted-attack/2014/02/operation-greedywonk-multiple-economic-and-foreign-policy-sites-compromised-serving-up-flash-zero-day-exploit.html)
 * Feb 20 - [Mo' Shells Mo' Problems - Deep Panda Web Shells](http://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/)
 * Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
@@ -118,4 +120,3 @@ Adding data:
 * Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/)
 * Aug 20 - [El Machete](https://securelist.com/blog/research/66108/el-machete/)
 * Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html) 
-
