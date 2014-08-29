@@ -59,6 +59,7 @@ Adding data:
 ## 2013
 * Jan 18 - [Ooperation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
+* Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
 * Feb 27 - [The MiniDuke Mystery: PDF 0-day Government Spy Assembler 0x29A Micro Backdoor](https://www.securelist.com/en/downloads/vlpdfs/themysteryofthepdf0-dayassemblermicrobackdoor.pdf)
 * Mar 13 - [You Only Click Twice: FinFisher’s Global Proliferation](https://citizenlab.org/wp-content/uploads/2013/07/15-2013-youonlyclicktwice.pdf)
