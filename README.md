@@ -105,6 +105,7 @@ Adding data:
 * Mar 06 - [The Siesta Campaign](http://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
+* Apr 26 - [CVE-2014-1776: Operation Clandestine Fox](http://www.fireeye.com/blog/uncategorized/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html)
 * Jun 06 - [Illuminating The Etumbot APT Backdoor](http://www.arbornetworks.com/asert/wp-content/uploads/2014/06/ASERT-Threat-Intelligence-Brief-2014-07-Illuminating-Etumbot-APT.pdf)
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
 * Jun 30 - [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf)
