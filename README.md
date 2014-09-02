@@ -139,4 +139,5 @@ Adding data:
 * Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/)
 * Aug 20 - [El Machete](https://securelist.com/blog/research/66108/el-machete/)
 * Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html) 
+* Aug 27 - [North Korea’s cyber threat landscape](http://h30499.www3.hp.com/hpeb/attachments/hpeb/off-by-on-software-security-blog/388/2/HPSR%20SecurityBriefing_Episode16_NorthKorea.pdf)
 * Aug 29 - [Syrian Malware Team Uses BlackWorm for Attacks](http://www.fireeye.com/blog/technical/2014/08/connecting-the-dots-syrian-malware-team-uses-blackworm-for-attacks.html)
