@@ -15,7 +15,14 @@ Adding data:
 * Add the PDF file to the appropriate year
 
 ## 2008
+* Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf)
+* Oct ?? - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
+* ??? ?? - [China's Electronic Long-Range Reconnaissance](http://fmso.leavenworth.army.mil/documents/chinas-electronic.pdf)
+
+## 2009
+* Jan 18 - [Impact of Alleged Russian Cyber Attacks](https://www.bdcol.ee/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf)
+* Mar 29 - [Tracking GhostNet](http://www.nartv.org/mirror/ghostnet.pdf)
 
 ## 2010
 * Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
@@ -24,11 +31,14 @@ Adding data:
 * Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf)
 * Jan ?? - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
 * Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052)
+* Apr 06 - [Shadows in the cloud: Investigating Cyber Espionage 2.0](http://www.nartv.org/mirror/shadows-in-the-cloud.pdf)
 * Sep 03 - [The "MSUpdater" Trojan And Ongoing Targeted Attacks](http://www.seculert.com/reports/MSUpdaterTrojanWhitepaper.pdf)
 * Dec 09 - [The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability ](http://www.fas.org/sgp/crs/natsec/R41524.pdf)
 
 ## 2011
 * Feb ?? - [W32.Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf)
+* Feb 10 - [Global Energy Cyberattacks: Night Dragon](http://www.mcafee.com/us/resources/white-papers/wp-global-energy-cyberattacks-night-dragon.pdf)
+* Feb 18 - [Night Dragon Specific Protection Measures for Consideration](http://www.nerc.com/pa/rrm/bpsa/Alerts%20DL/2011%20Alerts/A-2011-02-18-01%20Night%20Dragon%20Attachment%201.pdf)
 * Apr 20 - [Stuxnet Under the Microscope](http://www.eset.com/us/resources/white-papers/Stuxnet_Under_the_Microscope.pdf)
 * Aug ?? - [Shady RAT](http://en.wikipedia.org/wiki/Operation_Shady_RAT)
 * Aug 04 - [Operation Shady RAT](http://www.mcafee.com/us/resources/white-papers/wp-operation-shady-rat.pdf)
@@ -46,6 +56,7 @@ Adding data:
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
+* May 31 - [sKyWIper (Flame/Flamer)](www.crysys.hu/skywiper/skywiper.pdf)
 * Jul 10 - [Advanced Social Engineering for the Distribution of LURK Malware](https://citizenlab.org/wp-content/uploads/2012/07/10-2012-recentobservationsintibet.pdf)
 * Jul 11 - [Wired article on DarkComet creator](http://www.wired.com/2012/07/dark-comet-syrian-spy-tool/)
 * Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
@@ -70,7 +81,9 @@ Adding data:
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
 * May ?? - [Operation Hangover](http://normanshark.com/pdf/Unveiling%20an%20Indian%20Cyberattack%20Infrastructure%20-%20appendixes.pdf)
+* May 13 - [Operation Saffron Rose](http://www.fireeye.com/resources/pdfs/fireeye-operation-saffron-rose.pdf)
 * Jun ?? - [The Chinese Malware Complexes: The Maudi Surveillance Operation](http://normanshark.com/wp-content/uploads/2013/06/NormanShark-MaudiOperation.pdf)
+* Jun 01 - [Crude Faux: An analysis of cyber conflict within the oil & gas industries](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2013-9.pdf)
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
 * Jun 18 - [Trojan.APT.Seinup Hitting ASEAN](http://www.fireeye.com/blog/technical/malware-research/2013/06/trojan-apt-seinup-hitting-asean.html)
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
@@ -92,9 +105,11 @@ Adding data:
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
 * Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)
 * ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf)
+* ??? ?? - [Detecting and Defeating the China Chopper Web Shell](http://www.fireeye.com/resources/pdfs/fireeye-china-chopper-report.pdf)
 
 ## 2014
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
+* Jan 13 - [Targeted attacks against the Energy Sector](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/targeted_attacks_against_the_energy_sector.pdf)
 * Jan 14 - [The Icefog APT Hits US Targets With Java Backdoor](https://www.securelist.com/en/blog/208214213/The_Icefog_APT_Hits_US_Targets_With_Java_Backdoor)
 * Jan 21 - [Shell_Crew (Deep Panda)](http://www.emc.com/collateral/white-papers/h12756-wp-shell-crew.pdf)
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
