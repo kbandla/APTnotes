@@ -10,4 +10,5 @@
 * ??? ?? - [China's Cyber Warfare Capabilities](http://www.securitychallenges.org.au/ArticlePDFs/vol7no2Ball.pdf)
 
 ## 2013
+* Sep 30 - [ Understanding Nation-State Motives Behind  Today’s Advanced Cyber Attacks](http://www.fireeye.com/resources/pdfs/fireeye-wwc-report.pdf)
 * ??? ?? - [Energy at risk](http://www.kpmg.com/Global/en/IssuesAndInsights/ArticlesPublications/Documents/energy-at-risk.pdf)
