@@ -15,6 +15,7 @@ Adding data:
 * Add the PDF file to the appropriate year
 
 ## 2008
+* Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf)
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
 
 ## 2010
