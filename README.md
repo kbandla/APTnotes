@@ -16,7 +16,9 @@ Adding data:
 
 ## 2008
 * Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf)
+* Oct ?? - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
+* ??? ?? - [China's Electronic Long-Range Reconnaissance](http://fmso.leavenworth.army.mil/documents/chinas-electronic.pdf)
 
 ## 2010
 * Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
