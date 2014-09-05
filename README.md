@@ -14,6 +14,9 @@ Adding data:
 * Add a link to the public document to Documents.md page
 * Add the PDF file to the appropriate year
 
+## 2006
+* ["Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf)
+
 ## 2008
 * Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf)
 * Oct ?? - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
