@@ -49,6 +49,7 @@ Adding data:
 * Aug 03 - [HTran and the Advanced Persistent Threat](http://www.secureworks.com/cyber-threat-intelligence/threats/htran/)
 * Sep 11 - [SK Hack by an Advanced Persistent Threat](http://www.commandfive.com/papers/C5_APT_SKHack.pdf)
 * Sep 22 - [The "LURID" Downloader](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_dissecting-lurid-apt.pdf)
+* Oct 12 - [Alleged APT Intrusion Set: "1.php" Group](http://www.zscaler.com/pdf/technicalbriefs/tb_advanced_persistent_threats.pdf)
 * Oct 26 - [Duqu Trojan Questions and Answers](http://www.secureworks.com/cyber-threat-intelligence/threats/duqu/)
 * Oct 31 - [The Nitro Attacks: Stealing Secrets from the Chemical Industry](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the_nitro_attacks.pdf)
 
@@ -104,6 +105,7 @@ Adding data:
 * Aug 02 - [Where There is Smoke, There is Fire: South Asian Cyber Espionage Heats Up](http://www.threatconnect.com/news/where-there-is-smoke-there-is-fire-south-asian-cyber-espionage-heats-up/)
 * Aug 02 - [Surtr: Malware Family Targeting the Tibetan Community](https://citizenlab.org/2013/08/surtr-malware-family-targeting-the-tibetan-community/)
 * Aug 19 - [ByeBye Shell and the targeting of Pakistan](https://community.rapid7.com/community/infosec/blog/2013/08/19/byebye-and-the-targeting-of-pakistan)
+* Aug 21 - [POISON IVY: Assessing Damage and Extracting Intelligence](http://www.fireeye.com/resources/pdfs/fireeye-poison-ivy-report.pdf)
 * Aug 23 - [Operation Molerats: Middle East Cyber Attacks Using Poison Ivy](http://www.fireeye.com/blog/technical/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html)
 * Sep ?? - [Feature: EvilGrab Campaign Targets Diplomatic Agencies](http://about-threats.trendmicro.com/cloud-content/us/ent-primers/pdf/2q-report-on-targeted-attack-campaigns.pdf)
 * Sep 11 - [The "Kimsuky" Operation](https://securelist.com/analysis/57915/the-kimsuky-operation-a-north-korean-apt/)
