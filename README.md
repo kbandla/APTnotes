@@ -100,6 +100,7 @@ Adding data:
 * Jun 28 - [njRAT Uncovered](http://threatgeek.typepad.com/files/fta-1009---njrat-uncovered-1.pdf)
 * Jul 15 - [PlugX revisited: "Smoaler"](http://sophosnews.files.wordpress.com/2013/07/sophosszappanosplugxrevisitedintroducingsmoaler-rev1.pdf)
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
+* Jul 31 - [Blackhat: In-Depth Analysis of Escalated APT Attacks (Lstudio,Elirks)](https://media.blackhat.com/us-13/US-13-Yarochkin-In-Depth-Analysis-of-Escalated-APT-Attacks-Slides.pdf), [video](https://www.youtube.com/watch?v=SoFVRsvh8s0)
 * Aug ?? - [Operation Hangover - Unveiling an Indian Cyberattack Infrastructure](http://normanshark.com/wp-content/uploads/2013/08/NS-Unveiling-an-Indian-Cyberattack-Infrastructure_FINAL_Web.pdf)
 * Aug ?? - [APT Attacks on Indian Cyber Space](http://g0s.org/wp-content/uploads/2013/downloads/Inside_Report_by_Infosec_Consortium.pdf)
 * Aug 02 - [Where There is Smoke, There is Fire: South Asian Cyber Espionage Heats Up](http://www.threatconnect.com/news/where-there-is-smoke-there-is-fire-south-asian-cyber-espionage-heats-up/)
