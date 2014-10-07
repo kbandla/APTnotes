@@ -159,3 +159,4 @@ Adding data:
 * Sep 03 - [Darwin’s Favorite APT Group (APT12)](http://www.fireeye.com/blog/technical/botnet-activities-research/2014/09/darwins-favorite-apt-group-2.html)
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
 * Sep 17 - [Chinese intrusions into key defense contractors](http://www.armed-services.senate.gov/press-releases/sasc-investigation-finds-chinese-intrusions-into-key-defense-contractors)
+* Oct 03 - [New indicators for APT group Nitro](http://researchcenter.paloaltonetworks.com/2014/10/new-indicators-compromise-apt-group-nitro-uncovered/)
