@@ -157,6 +157,8 @@ Adding data:
 * Aug 27 - [North Korea’s cyber threat landscape](http://h30499.www3.hp.com/hpeb/attachments/hpeb/off-by-on-software-security-blog/388/2/HPSR%20SecurityBriefing_Episode16_NorthKorea.pdf)
 * Aug 29 - [Syrian Malware Team Uses BlackWorm for Attacks](http://www.fireeye.com/blog/technical/2014/08/connecting-the-dots-syrian-malware-team-uses-blackworm-for-attacks.html)
 * Sep 03 - [Darwin’s Favorite APT Group (APT12)](http://www.fireeye.com/blog/technical/botnet-activities-research/2014/09/darwins-favorite-apt-group-2.html)
+* Sep 08 - [Targeted Threat Index: Characterizingand Quantifying Politically-MotivatedTargeted Malware](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-hardy.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/hardy)
+* Sep 08 - [When Governments Hack Opponents: A Look at Actors and Technology](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-marczak.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/marczak)
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
 * Sep 17 - [Chinese intrusions into key defense contractors](http://www.armed-services.senate.gov/press-releases/sasc-investigation-finds-chinese-intrusions-into-key-defense-contractors)
 * Oct 03 - [New indicators for APT group Nitro](http://researchcenter.paloaltonetworks.com/2014/10/new-indicators-compromise-apt-group-nitro-uncovered/)
