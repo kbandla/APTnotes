@@ -163,3 +163,4 @@ Adding data:
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
 * Sep 17 - [Chinese intrusions into key defense contractors](http://www.armed-services.senate.gov/press-releases/sasc-investigation-finds-chinese-intrusions-into-key-defense-contractors)
 * Oct 03 - [New indicators for APT group Nitro](http://researchcenter.paloaltonetworks.com/2014/10/new-indicators-compromise-apt-group-nitro-uncovered/)
+* Oct 09 - [Democracy in Hong Kong Under Attack](http://www.volexity.com/blog/?p=33)
