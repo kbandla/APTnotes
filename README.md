@@ -162,5 +162,6 @@ Adding data:
 * Sep 08 - [When Governments Hack Opponents: A Look at Actors and Technology](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-marczak.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/marczak)
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
 * Sep 17 - [Chinese intrusions into key defense contractors](http://www.armed-services.senate.gov/press-releases/sasc-investigation-finds-chinese-intrusions-into-key-defense-contractors)
+* Sep 19 - [Watering Hole Attacks using Poison Ivy by "th3bug" group](http://researchcenter.paloaltonetworks.com/2014/09/recent-watering-hole-attacks-attributed-apt-group-th3bug-using-poison-ivy/)
 * Oct 03 - [New indicators for APT group Nitro](http://researchcenter.paloaltonetworks.com/2014/10/new-indicators-compromise-apt-group-nitro-uncovered/)
 * Oct 09 - [Democracy in Hong Kong Under Attack](http://www.volexity.com/blog/?p=33)
