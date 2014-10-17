@@ -14,6 +14,11 @@ Adding data:
 * Add a link to the public document to Documents.md page
 * Add the PDF file to the appropriate year
 
+Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md) for helping with the project!
+
+## Papers
+The [papers] section contains historical documents.
+
 ## 2006
 * ["Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf)
 
@@ -155,13 +160,21 @@ Adding data:
 * Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/)
 * Aug 20 - [El Machete](https://securelist.com/blog/research/66108/el-machete/)
 * Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html) 
+* Aug 27 - [NetTraveler APT Gets a Makeover for 10th Birthday](https://securelist.com/blog/research/66272/nettraveler-apt-gets-a-makeover-for-10th-birthday/)
 * Aug 27 - [North Korea’s cyber threat landscape](http://h30499.www3.hp.com/hpeb/attachments/hpeb/off-by-on-software-security-blog/388/2/HPSR%20SecurityBriefing_Episode16_NorthKorea.pdf)
 * Aug 29 - [Syrian Malware Team Uses BlackWorm for Attacks](http://www.fireeye.com/blog/technical/2014/08/connecting-the-dots-syrian-malware-team-uses-blackworm-for-attacks.html)
 * Sep 03 - [Darwin’s Favorite APT Group (APT12)](http://www.fireeye.com/blog/technical/botnet-activities-research/2014/09/darwins-favorite-apt-group-2.html)
+* Sep 04 - [Forced to Adapt: XSLCmd Backdoor Now on OS X](http://www.fireeye.com/blog/technical/malware-research/2014/09/forced-to-adapt-xslcmd-backdoor-now-on-os-x.html)
 * Sep 08 - [Targeted Threat Index: Characterizingand Quantifying Politically-MotivatedTargeted Malware](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-hardy.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/hardy)
 * Sep 08 - [When Governments Hack Opponents: A Look at Actors and Technology](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-marczak.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/marczak)
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
 * Sep 17 - [Chinese intrusions into key defense contractors](http://www.armed-services.senate.gov/press-releases/sasc-investigation-finds-chinese-intrusions-into-key-defense-contractors)
 * Sep 19 - [Watering Hole Attacks using Poison Ivy by "th3bug" group](http://researchcenter.paloaltonetworks.com/2014/09/recent-watering-hole-attacks-attributed-apt-group-th3bug-using-poison-ivy/)
+* Sep 26 - [Aided Frame, Aided Direction (Sunshop Digital Quartermaster)](http://www.fireeye.com/blog/technical/2014/09/aided-frame-aided-direction-because-its-a-redirect.html)
+* Oct 02 - [BlackEnergy & Quedagh](https://www.f-secure.com/documents/996508/1030745/blackenergy_whitepaper.pdf)
 * Oct 03 - [New indicators for APT group Nitro](http://researchcenter.paloaltonetworks.com/2014/10/new-indicators-compromise-apt-group-nitro-uncovered/)
 * Oct 09 - [Democracy in Hong Kong Under Attack](http://www.volexity.com/blog/?p=33)
+* Oct 14 - [ZoxPNG Preliminary Analysis](http://www.novetta.com/files/9114/1329/6233/ZoxPNG_Preliminary_Analysis.pdf)
+* Oct 14 - [Hikit Preliminary Analysis](http://www.novetta.com/files/1714/1329/6231/Hikit_Preliminary_Analysis.pdf)
+* Oct 14 - [Derusbi Preliminary Analysis](http://www.novetta.com/files/3014/1329/6230/Derusbi_Server_Preliminary_Analysis.pdf)
+* Oct 14 - [Group 72 (Axiom)](http://blogs.cisco.com/security/talos/threat-spotlight-group-72/)
