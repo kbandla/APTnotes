@@ -179,3 +179,4 @@ The [papers] section contains historical documents.
 * Oct 14 - [Derusbi Preliminary Analysis](http://www.novetta.com/files/3014/1329/6230/Derusbi_Server_Preliminary_Analysis.pdf)
 * Oct 14 - [Group 72 (Axiom)](http://blogs.cisco.com/security/talos/threat-spotlight-group-72/)
 * Oct 14 - [Sandworm - CVE-2104-4114](http://www.isightpartners.com/2014/10/cve-2014-4114/)
+* Oct 20 - [OrcaRAT - A whale of a tale](http://pwc.blogs.com/cyber_security_updates/2014/10/orcarat-a-whale-of-a-tale.html)
