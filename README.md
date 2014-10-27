@@ -182,3 +182,4 @@ The [papers] section contains historical documents.
 * Oct 20 - [OrcaRAT - A whale of a tale](http://pwc.blogs.com/cyber_security_updates/2014/10/orcarat-a-whale-of-a-tale.html)
 * Oct 22 - [Operation Pawn Storm: The Red in SEDNIT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-pawn-storm.pdf)
 * Oct 24 - [LeoUncia and OrcaRat](http://blog.airbuscybersecurity.com/post/2014/10/LeoUncia-and-OrcaRat)
+* Oct 27 - [Full Disclosure of Havex Trojans - ICS Havex backdoors](http://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans)
