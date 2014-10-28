@@ -162,6 +162,7 @@ The [papers] section contains historical documents.
 * Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html) 
 * Aug 27 - [NetTraveler APT Gets a Makeover for 10th Birthday](https://securelist.com/blog/research/66272/nettraveler-apt-gets-a-makeover-for-10th-birthday/)
 * Aug 27 - [North Korea’s cyber threat landscape](http://h30499.www3.hp.com/hpeb/attachments/hpeb/off-by-on-software-security-blog/388/2/HPSR%20SecurityBriefing_Episode16_NorthKorea.pdf)
+* Aug 28 - [Scanbox: A Reconnaissance Framework Used with Watering Hole Attacks](https://www.alienvault.com/open-threat-exchange/blog/scanbox-a-reconnaissance-framework-used-on-watering-hole-attacks)
 * Aug 29 - [Syrian Malware Team Uses BlackWorm for Attacks](http://www.fireeye.com/blog/technical/2014/08/connecting-the-dots-syrian-malware-team-uses-blackworm-for-attacks.html)
 * Sep 03 - [Darwin’s Favorite APT Group (APT12)](http://www.fireeye.com/blog/technical/botnet-activities-research/2014/09/darwins-favorite-apt-group-2.html)
 * Sep 04 - [Forced to Adapt: XSLCmd Backdoor Now on OS X](http://www.fireeye.com/blog/technical/malware-research/2014/09/forced-to-adapt-xslcmd-backdoor-now-on-os-x.html)
