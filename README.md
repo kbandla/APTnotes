@@ -187,3 +187,4 @@ The [papers] section contains historical documents.
 * Oct 27 - [Full Disclosure of Havex Trojans - ICS Havex backdoors](http://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans)
 * Oct 27 - [ScanBox framework – who’s affected, and who’s using it?](http://pwc.blogs.com/cyber_security_updates/2014/10/scanbox-framework-whos-affected-and-whos-using-it-1.html)
 * Oct 28 - [APT28 - A Window Into Russia's Cyber Espionage Operations](www.fireeye.com/resources/pdfs/apt28.pdf)
+* Oct 28 - [Group 72, Opening the ZxShell](http://blogs.cisco.com/talos/opening-zxshell/)
