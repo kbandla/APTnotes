@@ -188,4 +188,5 @@ The [papers] section contains historical documents.
 * Oct 27 - [ScanBox framework – who’s affected, and who’s using it?](http://pwc.blogs.com/cyber_security_updates/2014/10/scanbox-framework-whos-affected-and-whos-using-it-1.html)
 * Oct 28 - [APT28 - A Window Into Russia's Cyber Espionage Operations](www.fireeye.com/resources/pdfs/apt28.pdf)
 * Oct 28 - [Group 72, Opening the ZxShell](http://blogs.cisco.com/talos/opening-zxshell/)
+* Oct 30 - [The Rotten Tomato Campaign](http://blogs.sophos.com/2014/10/30/the-rotten-tomato-campaign-new-sophoslabs-research-on-apts/)
 * Oct 31 - [Operation TooHash](https://blog.gdatasoftware.com/blog/article/operation-toohash-how-targeted-attacks-work.html)
