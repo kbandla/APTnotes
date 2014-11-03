@@ -171,6 +171,7 @@ The [papers] section contains historical documents.
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
 * Sep 17 - [Chinese intrusions into key defense contractors](http://www.armed-services.senate.gov/press-releases/sasc-investigation-finds-chinese-intrusions-into-key-defense-contractors)
 * Sep 19 - [Watering Hole Attacks using Poison Ivy by "th3bug" group](http://researchcenter.paloaltonetworks.com/2014/09/recent-watering-hole-attacks-attributed-apt-group-th3bug-using-poison-ivy/)
+* Sep 23 - [Ukraine and Poland Targeted by BlackEnergy (video)](https://www.youtube.com/watch?v=I77CGqQvPE4)
 * Sep 26 - [Aided Frame, Aided Direction (Sunshop Digital Quartermaster)](http://www.fireeye.com/blog/technical/2014/09/aided-frame-aided-direction-because-its-a-redirect.html)
 * Sep 26 - [BlackEnergy & Quedagh](https://www.f-secure.com/documents/996508/1030745/blackenergy_whitepaper.pdf)
 * Oct 03 - [New indicators for APT group Nitro](http://researchcenter.paloaltonetworks.com/2014/10/new-indicators-compromise-apt-group-nitro-uncovered/)
