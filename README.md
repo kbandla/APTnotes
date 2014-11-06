@@ -191,3 +191,4 @@ The [papers] section contains historical documents.
 * Oct 28 - [Group 72, Opening the ZxShell](http://blogs.cisco.com/talos/opening-zxshell/)
 * Oct 30 - [The Rotten Tomato Campaign](http://blogs.sophos.com/2014/10/30/the-rotten-tomato-campaign-new-sophoslabs-research-on-apts/)
 * Oct 31 - [Operation TooHash](https://blog.gdatasoftware.com/blog/article/operation-toohash-how-targeted-attacks-work.html)
+* Nov 03 - [Operation Poisoned Handover: Unveiling Ties Between APT Activity in Hong Kong’s Pro-Democracy Movement](http://www.fireeye.com/blog/technical/2014/11/operation-poisoned-handover-unveiling-ties-between-apt-activity-in-hong-kongs-pro-democracy-movement.html)
