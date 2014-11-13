@@ -17,7 +17,7 @@ Adding data:
 Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md) for helping with the project!
 
 ## Papers
-The [papers] section contains historical documents.
+The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2006
 * ["Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf)
@@ -194,3 +194,4 @@ The [papers] section contains historical documents.
 * Nov 03 - [Operation Poisoned Handover: Unveiling Ties Between APT Activity in Hong Kong’s Pro-Democracy Movement](http://www.fireeye.com/blog/technical/2014/11/operation-poisoned-handover-unveiling-ties-between-apt-activity-in-hong-kongs-pro-democracy-movement.html)
 * Nov 10 - [The Darkhotel APT - A Story of Unusual Hospitality](https://securelist.com/blog/research/66779/the-darkhotel-apt/)
 * Nov 11 - [The Uroburos case- Agent.BTZ’s successor, ComRAT](http://blog.gdatasoftware.com/blog/article/the-uroburos-case-new-sophisticated-rat-identified.html)
+* Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
