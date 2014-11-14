@@ -87,6 +87,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
 * Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
+* Feb 22 - [Comment Crew: Indicators of Compromise](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/comment_crew_indicators_of_compromise.pdf)
 * Feb 26 - [Stuxnet 0.5: The Missing Link](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/stuxnet_0_5_the_missing_link.pdf)
 * Feb 27 - [The MiniDuke Mystery: PDF 0-day Government Spy Assembler 0x29A Micro Backdoor](https://www.securelist.com/en/downloads/vlpdfs/themysteryofthepdf0-dayassemblermicrobackdoor.pdf)
 * Feb 27 - [Miniduke: Indicators v1](http://www.crysys.hu/miniduke/miniduke_indicators_public.pdf)
