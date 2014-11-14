@@ -122,6 +122,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Sep 13 - [Operation DeputyDog: Zero-Day (CVE-2013-3893) Attack Against Japanese Targets](http://www.fireeye.com/blog/technical/cyber-exploits/2013/09/operation-deputydog-zero-day-cve-2013-3893-attack-against-japanese-targets.html)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
 * Sep 25 - [The 'ICEFROG' APT: A Tale of cloak and three daggers](http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf)
+* Sep 30 - [World War C: State of affairs in the APT world](http://www.fireeye.com/blog/technical/threat-intelligence/2013/09/new-fireeye-report-world-war-c.html)
 * Oct 24 - [Terminator RAT](http://www.fireeye.com/blog/technical/malware-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf)
 * Nov 10 - [Operation Ephemeral Hydra: IE Zero-Day Linked to DeputyDog Uses Diskless Method](http://www.fireeye.com/blog/technical/cyber-exploits/2013/11/operation-ephemeral-hydra-ie-zero-day-linked-to-deputydog-uses-diskless-method.html)
 * Nov 11 - [Supply Chain Analysis](http://www.fireeye.com/resources/pdfs/fireeye-malware-supply-chain.pdf)
@@ -201,3 +202,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 10 - [The Darkhotel APT - A Story of Unusual Hospitality](https://securelist.com/blog/research/66779/the-darkhotel-apt/)
 * Nov 11 - [The Uroburos case- Agent.BTZ’s successor, ComRAT](http://blog.gdatasoftware.com/blog/article/the-uroburos-case-new-sophisticated-rat-identified.html)
 * Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
+* Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)
