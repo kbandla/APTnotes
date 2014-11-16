@@ -202,5 +202,6 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 03 - [Operation Poisoned Handover: Unveiling Ties Between APT Activity in Hong Kong’s Pro-Democracy Movement](http://www.fireeye.com/blog/technical/2014/11/operation-poisoned-handover-unveiling-ties-between-apt-activity-in-hong-kongs-pro-democracy-movement.html)
 * Nov 10 - [The Darkhotel APT - A Story of Unusual Hospitality](https://securelist.com/blog/research/66779/the-darkhotel-apt/)
 * Nov 11 - [The Uroburos case- Agent.BTZ’s successor, ComRAT](http://blog.gdatasoftware.com/blog/article/the-uroburos-case-new-sophisticated-rat-identified.html)
+* Nov 12 - [Korplug military targeted attacks: Afghanistan & Tajikistan](http://www.welivesecurity.com/2014/11/12/korplug-military-targeted-attacks-afghanistan-tajikistan/)
 * Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
 * Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)
