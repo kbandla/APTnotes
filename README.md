@@ -205,3 +205,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 12 - [Korplug military targeted attacks: Afghanistan & Tajikistan](http://www.welivesecurity.com/2014/11/12/korplug-military-targeted-attacks-afghanistan-tajikistan/)
 * Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
 * Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)
+* Nov 14 - [Roaming Tiger (Slides)](http://2014.zeronights.ru/assets/files/slides/roaming_tiger_zeronights_2014.pdf)
