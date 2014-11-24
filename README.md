@@ -206,3 +206,5 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
 * Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)
 * Nov 14 - [Roaming Tiger (Slides)](http://2014.zeronights.ru/assets/files/slides/roaming_tiger_zeronights_2014.pdf)
+* Nov 23 - [Symantec's report on Regin](http://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance)
+* Nov 24 - [Kaspersky's report on The Regin Platform](http://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/)
