@@ -209,3 +209,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 21 - [Operation Double Tap](https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html) | [IOCs](https://github.com/fireeye/iocs/tree/master/APT3)
 * Nov 23 - [Symantec's report on Regin](http://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance)
 * Nov 24 - [Kaspersky's report on The Regin Platform](http://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/)
+* Nov 24 - [TheIntercept's report on The Regin Platform] (https://firstlook.org/theintercept/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/)
