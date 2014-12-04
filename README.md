@@ -102,6 +102,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun ?? - [The Chinese Malware Complexes: The Maudi Surveillance Operation](http://normanshark.com/wp-content/uploads/2013/06/NormanShark-MaudiOperation.pdf)
 * Jun 01 - [Crude Faux: An analysis of cyber conflict within the oil & gas industries](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2013-9.pdf)
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
+* Jun 07 - [KeyBoy, Targeted Attacks against Vietnam and India](https://community.rapid7.com/community/infosec/blog/2013/06/07/keyboy-targeted-attacks-against-vietnam-and-india)
 * Jun 18 - [Trojan.APT.Seinup Hitting ASEAN](http://www.fireeye.com/blog/technical/malware-research/2013/06/trojan-apt-seinup-hitting-asean.html)
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
 * Jun 28 - [njRAT Uncovered](http://threatgeek.typepad.com/files/fta-1009---njrat-uncovered-1.pdf)
