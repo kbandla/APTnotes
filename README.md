@@ -69,7 +69,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * May 18 - [Analysis of Flamer C&C Server](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_flamer_newsforyou.pdf)
 * May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
-* May 31 - [sKyWIper (Flame/Flamer)](www.crysys.hu/skywiper/skywiper.pdf)
+* May 31 - [sKyWIper (Flame/Flamer)](http://www.crysys.hu/skywiper/skywiper.pdf)
 * Jul 10 - [Advanced Social Engineering for the Distribution of LURK Malware](https://citizenlab.org/wp-content/uploads/2012/07/10-2012-recentobservationsintibet.pdf)
 * Jul 11 - [Wired article on DarkComet creator](http://www.wired.com/2012/07/dark-comet-syrian-spy-tool/)
 * Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
