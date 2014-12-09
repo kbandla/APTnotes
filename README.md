@@ -216,3 +216,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 30 - [FIN4: Stealing Insider Information for an Advantage in Stock Trading?](https://www.fireeye.com/blog/threat-research/2014/11/fin4_stealing_insid.html)
 * Dec 02 - [Operation Cleaver](http://www.cylance.com/operation-cleaver/) | [IOCs](http://www.cylance.com/assets/Cleaver/cleaver.yar)
 * Dec 03 - [Operation Cleaver: The Notepad Files](http://blog.cylance.com/operation-cleaver-the-notepad-files)
+* Dec 08 - [The 'Penquin' Turla](http://securelist.com/blog/research/67962/the-penquin-turla-2/)
