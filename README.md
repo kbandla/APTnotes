@@ -218,3 +218,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 03 - [Operation Cleaver: The Notepad Files](http://blog.cylance.com/operation-cleaver-the-notepad-files)
 * Dec 08 - [The 'Penquin' Turla](http://securelist.com/blog/research/67962/the-penquin-turla-2/)
 * Dec 09 - [The Inception Framework](https://www.bluecoat.com/security-blog/2014-12-09/blue-coat-exposes-%E2%80%9C-inception-framework%E2%80%9D-very-sophisticated-layered-malware)
+* Dec 10 - [Cloud Atlas: RedOctober APT](http://securelist.com/blog/research/68083/cloud-atlas-redoctober-apt-is-back-in-style/)
