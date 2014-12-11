@@ -94,6 +94,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 13 - [You Only Click Twice: FinFisher’s Global Proliferation](https://citizenlab.org/wp-content/uploads/2013/07/15-2013-youonlyclicktwice.pdf)
 * Mar 17 - [Safe: A Targeted Threat](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-safe-a-targeted-threat.pdf)
 * Mar 20 - [Dissecting Operation Troy](http://www.mcafee.com/sg/resources/white-papers/wp-dissecting-operation-troy.pdf)
+* Mar 20 - [The TeamSpy Crew Attacks](http://securelist.com/blog/incidents/35520/the-teamspy-crew-attacks-abusing-teamviewer-for-cyberespionage-8/)
 * Mar 27 - [APT1: technical backstage (Terminator/Fakem RAT)](http://www.malware.lu/Pro/RAP002_APT1_Technical_backstage.1.0.pdf)
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
