@@ -24,9 +24,9 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2008
 * Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf)
-* Oct ?? - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
+* Oct 02 - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
+* Nov 04 - [China's Electronic Long-Range Reconnaissance](http://fmso.leavenworth.army.mil/documents/chinas-electronic.pdf)
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
-* ??? ?? - [China's Electronic Long-Range Reconnaissance](http://fmso.leavenworth.army.mil/documents/chinas-electronic.pdf)
 
 ## 2009
 * Jan 18 - [Impact of Alleged Russian Cyber Attacks](https://www.bdcol.ee/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf)
@@ -35,23 +35,23 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 ## 2010
 * Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
 * Jan 13 - [The Command Structure of the Aurora Botnet - Damballa](https://www.damballa.com/downloads/r_pubs/Aurora_Botnet_Command_Structure.pdf)
+* Jan 20 - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
 * Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf)
 * Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf)
-* Jan ?? - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
 * Feb 24 - [How Can I Tell if I Was Infected By Aurora? (IOCs)](http://www.mcafee.com/us/local_content/reports/how_can_u_tell.pdf)
 * Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052)
 * Apr 06 - [Shadows in the cloud: Investigating Cyber Espionage 2.0](http://www.nartv.org/mirror/shadows-in-the-cloud.pdf)
 * Sep 03 - [The "MSUpdater" Trojan And Ongoing Targeted Attacks](http://www.seculert.com/reports/MSUpdaterTrojanWhitepaper.pdf)
+* Sep 30 - [W32.Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf)
 * Dec 09 - [The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability ](http://www.fas.org/sgp/crs/natsec/R41524.pdf)
 
 ## 2011
-* Feb ?? - [W32.Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf)
 * Feb 10 - [Global Energy Cyberattacks: Night Dragon](http://www.mcafee.com/us/resources/white-papers/wp-global-energy-cyberattacks-night-dragon.pdf)
 * Feb 18 - [Night Dragon Specific Protection Measures for Consideration](http://www.nerc.com/pa/rrm/bpsa/Alerts%20DL/2011%20Alerts/A-2011-02-18-01%20Night%20Dragon%20Attachment%201.pdf)
 * Apr 20 - [Stuxnet Under the Microscope](http://www.eset.com/us/resources/white-papers/Stuxnet_Under_the_Microscope.pdf)
 * Aug ?? - [Shady RAT](http://en.wikipedia.org/wiki/Operation_Shady_RAT)
 * Aug 04 - [Operation Shady RAT](http://www.mcafee.com/us/resources/white-papers/wp-operation-shady-rat.pdf)
-* Aug ?? - [Operation Shady rat : Vanity](http://www.vanityfair.com/culture/features/2011/09/operation-shady-rat-201109)
+* Aug 02 - [Operation Shady rat : Vanity](http://www.vanityfair.com/culture/features/2011/09/operation-shady-rat-201109)
 * Aug 03 - [HTran and the Advanced Persistent Threat](http://www.secureworks.com/cyber-threat-intelligence/threats/htran/)
 * Sep 11 - [SK Hack by an Advanced Persistent Threat](http://www.commandfive.com/papers/C5_APT_SKHack.pdf)
 * Sep 22 - [The "LURID" Downloader](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_dissecting-lurid-apt.pdf)
@@ -61,7 +61,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2012
 * Jan 03 - [The HeartBeat APT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf)
-* Feb ?? - [Command and Control in the Fifth Domain](http://www.commandfive.com/papers/C5_APT_C2InTheFifthDomain.pdf)
+* Feb 03 - [Command and Control in the Fifth Domain](http://www.commandfive.com/papers/C5_APT_C2InTheFifthDomain.pdf)
 * Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
 * Mar 12 - [Crouching Tiger, Hidden Dragon, Stolen Data](http://www.contextis.com/services/research/white-papers/crouching-tiger-hidden-dragon-stolen-data/)
 * Mar 13 - [Reversing DarkComet RAT's crypto](http://www.arbornetworks.com/asert/wp-content/uploads/2012/07/Crypto-DarkComet-Report.pdf)
@@ -108,7 +108,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun 18 - [Trojan.APT.Seinup Hitting ASEAN](http://www.fireeye.com/blog/technical/malware-research/2013/06/trojan-apt-seinup-hitting-asean.html)
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
 * Jun 28 - [njRAT Uncovered](http://threatgeek.typepad.com/files/fta-1009---njrat-uncovered-1.pdf)
-* Jul ?? - [Dark Seoul Cyber Attack: Could it be worse?](cisak.perpika.kr/wp-content/uploads/2013/07/2013-08.pdf)
+* Jul 09 - [Dark Seoul Cyber Attack: Could it be worse?](cisak.perpika.kr/wp-content/uploads/2013/07/2013-08.pdf)
 * Jul 15 - [PlugX revisited: "Smoaler"](http://sophosnews.files.wordpress.com/2013/07/sophosszappanosplugxrevisitedintroducingsmoaler-rev1.pdf)
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Jul 31 - [Blackhat: In-Depth Analysis of Escalated APT Attacks (Lstudio,Elirks)](https://media.blackhat.com/us-13/US-13-Yarochkin-In-Depth-Analysis-of-Escalated-APT-Attacks-Slides.pdf), [video](https://www.youtube.com/watch?v=SoFVRsvh8s0)
@@ -157,6 +157,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
 * Jun 30 - [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf)
 * Jun 10 - [Anatomy of the Attack: Zombie Zero](http://www.trapx.com/wp-content/uploads/2014/07/TrapX_ZOMBIE_Report_Final.pdf)
+* Jul 07 - [Deep Pandas](http://blog.crowdstrike.com/deep-thought-chinese-targeting-national-security-think-tanks/)
 * Jul 11 - [Pitty Tiger](http://bitbucket.cassidiancybersecurity.com/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf)
 * Jul 20 - [Sayad (Flying Kitten) Analysis & IOCs](http://vinsula.com/2014/07/20/sayad-flying-kitten-infostealer-malware/)
 * Jul 31 - [Energetic Bear/Crouching Yeti](https://kasperskycontenthub.com/securelist/files/2014/07/EB-YetiJuly2014-Public.pdf)
