@@ -3,8 +3,8 @@ This is a repository for various publicly-available documents and notes related 
 For malware sample hashes, please see the individual reports
 
 ## Contributing
-For the moment, it would be nice to have a PDF of the article that we add to the 
-list, just to be sure we always have a copy. 
+For the moment, it would be nice to have a PDF of the article that we add to the
+list, just to be sure we always have a copy.
 
 To contribute, you can either:
 * Fork, add and send me a pull request
@@ -53,6 +53,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Aug 04 - [Operation Shady RAT](http://www.mcafee.com/us/resources/white-papers/wp-operation-shady-rat.pdf)
 * Aug 02 - [Operation Shady rat : Vanity](http://www.vanityfair.com/culture/features/2011/09/operation-shady-rat-201109)
 * Aug 03 - [HTran and the Advanced Persistent Threat](http://www.secureworks.com/cyber-threat-intelligence/threats/htran/)
+* Sep 09 - [The RSA Hack](http://www.fidelissecurity.com/sites/default/files/FTA1001-The_RSA_Hack.pdf)
 * Sep 11 - [SK Hack by an Advanced Persistent Threat](http://www.commandfive.com/papers/C5_APT_SKHack.pdf)
 * Sep 22 - [The "LURID" Downloader](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_dissecting-lurid-apt.pdf)
 * Oct 12 - [Alleged APT Intrusion Set: "1.php" Group](http://www.zscaler.com/pdf/technicalbriefs/tb_advanced_persistent_threats.pdf)
@@ -81,6 +82,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
 * Oct 08 - [Matasano notes on DarkComet, Bandook, CyberGate and Xtreme RAT](http://matasano.com/research/PEST-CONTROL.pdf)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
+* Nov 01 - [RECOVERING FROM SHAMOON](http://www.fidelissecurity.com/sites/default/files/FTA%201007%20-%20Shamoon.pdf)
 * Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://download01.norman.no/whitepapers/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
 
 ## 2013
@@ -96,6 +98,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 17 - [Safe: A Targeted Threat](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-safe-a-targeted-threat.pdf)
 * Mar 20 - [Dissecting Operation Troy](http://www.mcafee.com/sg/resources/white-papers/wp-dissecting-operation-troy.pdf)
 * Mar 20 - [The TeamSpy Crew Attacks](http://securelist.com/blog/incidents/35520/the-teamspy-crew-attacks-abusing-teamviewer-for-cyberespionage-8/)
+* Mar 21 - [Darkseoul/Jokra Analysis And Recovery](http://www.fidelissecurity.com/sites/default/files/FTA%201008%20-%20Darkseoul-Jokra%20Analysis%20and%20Recovery.pdf)
 * Mar 27 - [APT1: technical backstage (Terminator/Fakem RAT)](http://www.malware.lu/Pro/RAP002_APT1_Technical_backstage.1.0.pdf)
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
@@ -138,13 +141,16 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
 * Jan 13 - [Targeted attacks against the Energy Sector](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/targeted_attacks_against_the_energy_sector.pdf)
 * Jan 14 - [The Icefog APT Hits US Targets With Java Backdoor](https://www.securelist.com/en/blog/208214213/The_Icefog_APT_Hits_US_Targets_With_Java_Backdoor)
+* Jan 15 - [“New'CDTO:'A'Sneakernet'Trojan'Solution](http://www.fidelissecurity.com/sites/default/files/FTA%201001%20FINAL%201.15.14.pdf)
 * Jan 21 - [Shell_Crew (Deep Panda)](http://www.emc.com/collateral/white-papers/h12756-wp-shell-crew.pdf)
+* Jan 31 - [Intruder File Report- Sneakernet Trojan](http://www.fidelissecurity.com/sites/default/files/FTA%201011%20Follow%20UP.pdf)
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
 * Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
 * Feb 19 - [The Monju Incident](http://contextis.com/resources/blog/context-threat-intelligence-monju-incident/)
 * Feb 19 - [XtremeRAT: Nuisance or Threat?](http://www.fireeye.com/blog/technical/2014/02/xtremerat-nuisance-or-threat.html)
 * Feb 20 - [Operation GreedyWonk: Multiple Economic and Foreign Policy Sites Compromised, Serving Up Flash Zero-Day Exploit](http://www.fireeye.com/blog/technical/targeted-attack/2014/02/operation-greedywonk-multiple-economic-and-foreign-policy-sites-compromised-serving-up-flash-zero-day-exploit.html)
 * Feb 20 - [Mo' Shells Mo' Problems - Deep Panda Web Shells](http://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/)
+* Feb 23 - [Gathering in the Middle East, Operation STTEAM](http://www.fidelissecurity.com/sites/default/files/FTA%201012%20STTEAM%20Final.pdf)
 * Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
 * Mar 06 - [The Siesta Campaign](http://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
@@ -170,7 +176,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Aug 13 - [A Look at Targeted Attacks Through the Lense of an NGO](http://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
 * Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/)
 * Aug 20 - [El Machete](https://securelist.com/blog/research/66108/el-machete/)
-* Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html) 
+* Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html)
 * Aug 27 - [NetTraveler APT Gets a Makeover for 10th Birthday](https://securelist.com/blog/research/66272/nettraveler-apt-gets-a-makeover-for-10th-birthday/)
 * Aug 27 - [North Korea’s cyber threat landscape](http://h30499.www3.hp.com/hpeb/attachments/hpeb/off-by-on-software-security-blog/388/2/HPSR%20SecurityBriefing_Episode16_NorthKorea.pdf)
 * Aug 28 - [Scanbox: A Reconnaissance Framework Used with Watering Hole Attacks](https://www.alienvault.com/open-threat-exchange/blog/scanbox-a-reconnaissance-framework-used-on-watering-hole-attacks)
@@ -225,3 +231,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 10 - [W32/Regin, Stage #1](https://www.f-secure.com/documents/996508/1030745/w32_regin_stage_1.pdf)
 * Dec 10 - [W64/Regin, Stage #1](https://www.f-secure.com/documents/996508/1030745/w64_regin_stage_1.pdf)
 * Dec 12 - [Vinself now with steganography](http://blog.cybersecurity-airbusds.com/post/2014/12/Vinself)
+* Dec 12 - [Bots,	Machines,	and	the Matrix](http://www.fidelissecurity.com/sites/default/files/FTA_1014_Bots_Machines_and_the_Matrix.pdf)
