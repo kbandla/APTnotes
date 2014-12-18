@@ -19,3 +19,7 @@
 ## 2013
 * Sep 30 - [ Understanding Nation-State Motives Behind  Today’s Advanced Cyber Attacks](http://www.fireeye.com/resources/pdfs/fireeye-wwc-report.pdf)
 * ??? ?? - [Energy at risk](http://www.kpmg.com/Global/en/IssuesAndInsights/ArticlesPublications/Documents/energy-at-risk.pdf)
+
+## 2014
+
+* Dec 12 - [APT Kill chain - Part 5 : Access Strenghtening and lateral movements](http://blog.airbuscybersecurity.com/post/2014/11/APT-Kill-chain-Part-5-%3A-Access-Strenghtening-and-lateral-movements)
