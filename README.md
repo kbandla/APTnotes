@@ -232,4 +232,5 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 10 - [W64/Regin, Stage #1](https://www.f-secure.com/documents/996508/1030745/w64_regin_stage_1.pdf)
 * Dec 12 - [Vinself now with steganography](http://blog.cybersecurity-airbusds.com/post/2014/12/Vinself)
 * Dec 12 - [Bots,	Machines,	and	the Matrix](http://www.fidelissecurity.com/sites/default/files/FTA_1014_Bots_Machines_and_the_Matrix.pdf)
+* Dec 17 - [Wiper Malware – A Detection Deep Dive](http://blogs.cisco.com/security/talos/wiper-malware)
 * Dec 18 - [Malware Attack Targeting Syrian ISIS Critics](https://citizenlab.org/2014/12/malware-attack-targeting-syrian-isis-critics/)
