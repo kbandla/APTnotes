@@ -238,3 +238,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 18 - [Malware Attack Targeting Syrian ISIS Critics](https://citizenlab.org/2014/12/malware-attack-targeting-syrian-isis-critics/)
 * Dec 19 - [TA14-353A: Targeted Destructive Malware (wiper)](https://www.us-cert.gov/ncas/alerts/TA14-353A)
 * Dec 21 - [Operation Poisoned Helmand](http://www.threatconnect.com/news/operation-poisoned-helmand/)
+* Dec 22 - [Anunak: APT against financial institutions](http://www.group-ib.com/files/Anunak_APT_against_financial_institutions.pdf)
