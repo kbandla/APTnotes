@@ -11,7 +11,7 @@ To contribute, you can either:
 * Open a ticket with the data you want to be added
 
 Adding data:
-* Add a link to the public document to Documents.md page
+* Add a link to the public document to README.md page
 * Add the PDF file to the appropriate year
 
 Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md) for helping with the project!
