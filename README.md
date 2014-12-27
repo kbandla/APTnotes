@@ -158,6 +158,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 26 - [CVE-2014-1776: Operation Clandestine Fox](http://www.fireeye.com/blog/uncategorized/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html)
 * May 13 - [Operation Saffron Rose (aka Flying Kitten)](http://www.fireeye.com/resources/pdfs/fireeye-operation-saffron-rose.pdf)
 * May 13 - [CrowdStrike's report on Flying Kitten](http://blog.crowdstrike.com/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/)
+* May 20 - [Miniduke Twitter C&C](http://www.welivesecurity.com/2014/05/20/miniduke-still-duking/)
 * May 21 - [RAT in jar: A phishing campaign using Unrecom](http://www.fidelissecurity.com/sites/default/files/FTA_1013_RAT_in_a_jar.pdf)
 * Jun 06 - [Illuminating The Etumbot APT Backdoor (APT12)](http://www.arbornetworks.com/asert/wp-content/uploads/2014/06/ASERT-Threat-Intelligence-Brief-2014-07-Illuminating-Etumbot-APT.pdf)
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
