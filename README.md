@@ -100,6 +100,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 20 - [The TeamSpy Crew Attacks](http://securelist.com/blog/incidents/35520/the-teamspy-crew-attacks-abusing-teamviewer-for-cyberespionage-8/)
 * Mar 21 - [Darkseoul/Jokra Analysis And Recovery](http://www.fidelissecurity.com/sites/default/files/FTA%201008%20-%20Darkseoul-Jokra%20Analysis%20and%20Recovery.pdf)
 * Mar 27 - [APT1: technical backstage (Terminator/Fakem RAT)](http://www.malware.lu/Pro/RAP002_APT1_Technical_backstage.1.0.pdf)
+* Mar 28 - [TR-12 - Analysis of a PlugX malware variant used for targeted attacks](http://www.circl.lu/pub/tr-12/)
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
