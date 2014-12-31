@@ -105,6 +105,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
 * May ?? - [Operation Hangover](http://normanshark.com/pdf/Unveiling%20an%20Indian%20Cyberattack%20Infrastructure%20-%20appendixes.pdf)
+* May 30 - [TR-14 - Analysis of a stage 3 Miniduke malware sample](http://www.circl.lu/pub/tr-14/)
 * Jun ?? - [The Chinese Malware Complexes: The Maudi Surveillance Operation](http://normanshark.com/wp-content/uploads/2013/06/NormanShark-MaudiOperation.pdf)
 * Jun 01 - [Crude Faux: An analysis of cyber conflict within the oil & gas industries](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2013-9.pdf)
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
