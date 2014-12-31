@@ -168,6 +168,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun 30 - [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf)
 * Jun 10 - [Anatomy of the Attack: Zombie Zero](http://www.trapx.com/wp-content/uploads/2014/07/TrapX_ZOMBIE_Report_Final.pdf)
 * Jul 07 - [Deep Pandas](http://blog.crowdstrike.com/deep-thought-chinese-targeting-national-security-think-tanks/)
+* Jul 10 - [TR-25 Analysis - Turla / Pfinet / Snake/ Uroburos](http://www.circl.lu/pub/tr-25/)
 * Jul 11 - [Pitty Tiger](http://bitbucket.cassidiancybersecurity.com/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf)
 * Jul 20 - [Sayad (Flying Kitten) Analysis & IOCs](http://vinsula.com/2014/07/20/sayad-flying-kitten-infostealer-malware/)
 * Jul 31 - [Energetic Bear/Crouching Yeti](https://kasperskycontenthub.com/securelist/files/2014/07/EB-YetiJuly2014-Public.pdf)
