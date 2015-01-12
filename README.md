@@ -240,3 +240,6 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 19 - [TA14-353A: Targeted Destructive Malware (wiper)](https://www.us-cert.gov/ncas/alerts/TA14-353A)
 * Dec 21 - [Operation Poisoned Helmand](http://www.threatconnect.com/news/operation-poisoned-helmand/)
 * Dec 22 - [Anunak: APT against financial institutions](http://www.group-ib.com/files/Anunak_APT_against_financial_institutions.pdf)
+
+## 2015
+* Jan 11 - [Hong Kong SWC attack](http://blog.dragonthreatlabs.com/2015/01/dtl-12012015-01-hong-kong-swc-attack.html)
