@@ -250,4 +250,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 15 - [Evolution of Agent.BTZ to ComRAT](https://blog.gdatasoftware.com/blog/article/evolution-of-sophisticated-spyware-from-agentbtz-to-comrat.html)
 * Jan 20 - [Analysis of Project Cobra](https://blog.gdatasoftware.com/blog/article/analysis-of-project-cobra.html)
 * Jan 20 - [Reversing the Inception APT malware](https://www.bluecoat.com/security-blog/2015-01-20/reversing-inception-apt-malware)
-* Jan 20 - [The Waterbug attack group](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/waterbug-attack-group.pdf)
+* Jan 22 - [The Waterbug attack group](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/waterbug-attack-group.pdf)
