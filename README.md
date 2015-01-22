@@ -251,3 +251,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 20 - [Analysis of Project Cobra](https://blog.gdatasoftware.com/blog/article/analysis-of-project-cobra.html)
 * Jan 20 - [Reversing the Inception APT malware](https://www.bluecoat.com/security-blog/2015-01-20/reversing-inception-apt-malware)
 * Jan 22 - [The Waterbug attack group](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/waterbug-attack-group.pdf)
+* Jan 22 - [Scarab attackers Russian targets](http://www.symantec.com/connect/blogs/scarab-attackers-took-aim-select-russian-targets-2012) | [IOCs](http://www.symantec.com/content/en/us/enterprise/media/security_response/docs/Scarab_IOCs_January_2015.txt)
