@@ -255,3 +255,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 22 - [Regin's Hopscotch and Legspin](http://securelist.com/blog/research/68438/an-analysis-of-regins-hopscotch-and-legspin/)
 * Jan 27 - [Comparing the Regin module 50251 and the "Qwerty" keylogger](http://securelist.com/blog/research/68525/comparing-the-regin-module-50251-and-the-qwerty-keylogger/)
 * Jan 29 - [Backdoor.Winnti attackers and Trojan.Skelky](http://www.symantec.com/connect/blogs/backdoorwinnti-attackers-have-skeleton-their-closet)
+* Jan 29 - [Analysis of PlugX Variant - P2P PlugX ](http://blog.jpcert.or.jp/.s/2015/01/analysis-of-a-r-ff05.html)
