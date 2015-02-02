@@ -256,3 +256,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 27 - [Comparing the Regin module 50251 and the "Qwerty" keylogger](http://securelist.com/blog/research/68525/comparing-the-regin-module-50251-and-the-qwerty-keylogger/)
 * Jan 29 - [Backdoor.Winnti attackers and Trojan.Skelky](http://www.symantec.com/connect/blogs/backdoorwinnti-attackers-have-skeleton-their-closet)
 * Jan 29 - [Analysis of PlugX Variant - P2P PlugX ](http://blog.jpcert.or.jp/.s/2015/01/analysis-of-a-r-ff05.html)
+* Feb 02 - [Behind the Syrian Conflict’s Digital Frontlines](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-behind-the-syria-conflict.pdf)
