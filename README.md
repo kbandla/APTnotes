@@ -227,6 +227,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 23 - [Symantec's report on Regin](http://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance)
 * Nov 24 - [Kaspersky's report on The Regin Platform](http://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/)
 * Nov 24 - [TheIntercept's report on The Regin Platform] (https://firstlook.org/theintercept/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/)
+* Nov 24 - [Deep Panda Uses Sakula Malware](http://blog.crowdstrike.com/ironman-deep-panda-uses-sakula-malware-target-organizations-multiple-sectors/)
 * Nov 30 - [FIN4: Stealing Insider Information for an Advantage in Stock Trading?](https://www.fireeye.com/blog/threat-research/2014/11/fin4_stealing_insid.html)
 * Dec 02 - [Operation Cleaver](http://www.cylance.com/operation-cleaver/) | [IOCs](http://www.cylance.com/assets/Cleaver/cleaver.yar)
 * Dec 03 - [Operation Cleaver: The Notepad Files](http://blog.cylance.com/operation-cleaver-the-notepad-files)
