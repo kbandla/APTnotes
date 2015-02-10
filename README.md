@@ -86,7 +86,9 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://download01.norman.no/whitepapers/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
 
 ## 2013
-* Jan 18 - [Ooperation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
+* Jan 14 - [The Red October Campaign](https://securelist.com/blog/incidents/57647/the-red-october-campaign)
+* Jan 14 - [Red October Diplomatic Cyber Attacks Investigation](http://securelist.com/analysis/publications/36740/red-october-diplomatic-cyber-attacks-investigation)
+* Jan 18 - [Operation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
 * Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
