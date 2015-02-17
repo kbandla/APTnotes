@@ -90,7 +90,6 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 14 - [Red October Diplomatic Cyber Attacks Investigation](http://securelist.com/analysis/publications/36740/red-october-diplomatic-cyber-attacks-investigation)
 * Jan 18 - [Operation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
-* Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
 * Feb 22 - [Comment Crew: Indicators of Compromise](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/comment_crew_indicators_of_compromise.pdf)
 * Feb 26 - [Stuxnet 0.5: The Missing Link](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/stuxnet_0_5_the_missing_link.pdf)
@@ -263,3 +262,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 04 - [Pawn Storm Update: iOS Espionage App Found](http://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-update-ios-espionage-app-found/)
 * Feb 10 - [CrowdStrike Global Threat Intel Report for 2014](http://go.crowdstrike.com/rs/crowdstrike/images/GlobalThreatIntelReport.pdf)
 * Feb 16 - [Equation: The Death Star of Malware Galaxy](https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/)
+* Feb 16 - [The Carbanak APT](https://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)
