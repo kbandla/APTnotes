@@ -264,3 +264,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 16 - [Equation: The Death Star of Malware Galaxy](https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/)
 * Feb 16 - [The Carbanak APT](https://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)
 * Feb 16 - [Operation Arid Viper](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-arid-viper-bypassing-the-iron-dome)
+* Feb 17 - [Desert Falcons APT](https://securelist.com/blog/research/68817/the-desert-falcons-targeted-attacks/)
