@@ -59,6 +59,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Oct 12 - [Alleged APT Intrusion Set: "1.php" Group](http://www.zscaler.com/pdf/technicalbriefs/tb_advanced_persistent_threats.pdf)
 * Oct 26 - [Duqu Trojan Questions and Answers](http://www.secureworks.com/cyber-threat-intelligence/threats/duqu/)
 * Oct 31 - [The Nitro Attacks: Stealing Secrets from the Chemical Industry](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the_nitro_attacks.pdf)
+* Dec 08 - [Palebot trojan harvests Palestinian online credentials](https://web.archive.org/web/20130308090454/http://blogs.norman.com/2011/malware-detection-team/palebot-trojan-harvests-palestinian-online-credentials)
 
 ## 2012
 * Jan 03 - [The HeartBeat APT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf)
