@@ -225,6 +225,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
 * Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)
 * Nov 14 - [Roaming Tiger (Slides)](http://2014.zeronights.ru/assets/files/slides/roaming_tiger_zeronights_2014.pdf)
+* Nov 20 - [EvilBunny: Suspect #4](http://0x1338.blogspot.co.uk/2014/11/hunting-bunnies.html)
 * Nov 21 - [Operation Double Tap](https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html) | [IOCs](https://github.com/fireeye/iocs/tree/master/APT3)
 * Nov 23 - [Symantec's report on Regin](http://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance)
 * Nov 24 - [Kaspersky's report on The Regin Platform](http://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/)
@@ -266,4 +267,5 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 16 - [The Carbanak APT](https://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)
 * Feb 16 - [Operation Arid Viper](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-arid-viper-bypassing-the-iron-dome)
 * Feb 17 - [Desert Falcons APT](https://securelist.com/blog/research/68817/the-desert-falcons-targeted-attacks/)
+* Feb 18 - [Shooting Elephants](https://drive.google.com/file/d/0B9Mrr-en8FX4dzJqLWhDblhseTA/view)
 * Feb 18 - [Babar: espionage software finally found and put under the microscope](https://blog.gdatasoftware.com/blog/article/babar-espionage-software-finally-found-and-put-under-the-microscope.html)
