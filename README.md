@@ -270,3 +270,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 17 - [Desert Falcons APT](https://securelist.com/blog/research/68817/the-desert-falcons-targeted-attacks/)
 * Feb 18 - [Shooting Elephants](https://drive.google.com/file/d/0B9Mrr-en8FX4dzJqLWhDblhseTA/view)
 * Feb 18 - [Babar: espionage software finally found and put under the microscope](https://blog.gdatasoftware.com/blog/article/babar-espionage-software-finally-found-and-put-under-the-microscope.html)
+* Mar 5 - [Casper Malware: After Babar and Bunny, Another Espionage Cartoon](http://www.welivesecurity.com/2015/03/05/casper-malware-babar-bunny-another-espionage-cartoon)
