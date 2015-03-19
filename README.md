@@ -38,6 +38,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 20 - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
 * Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf) (OFFLINE)
 * Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf) (OFFLINE)
+* Feb 10 - [HB Gary Threat Report: Operation Aurora](http://hbgary.com/sites/default/files/publications/WhitePaper%20HBGary%20Threat%20Report,%20Operation%20Aurora.pdf)
 * Feb 24 - [How Can I Tell if I Was Infected By Aurora? (IOCs)](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE)
 * Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052) (OFFLINE)
 * Apr 06 - [Shadows in the cloud: Investigating Cyber Espionage 2.0](http://www.nartv.org/mirror/shadows-in-the-cloud.pdf)
