@@ -1,18 +1,16 @@
 # APT Notes
-This is a repository for various publicly-available documents and notes related to APT, sorted by year.
-For malware sample hashes, please see the individual reports
+This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
 ## Contributing
-For the moment, it would be nice to have a PDF of the article that we add to the
-list, just to be sure we always have a copy.
+For the moment, it would be nice to have a PDF of the article that we add to the list, just to be sure we always have a copy.
 
 To contribute, you can either:
-* Fork, add and send me a pull request
-* Open a ticket with the data you want to be added
+* Fork, add the report, and send in a pull request; or
+* Open an issue with the data you want to be added.
 
 Adding data:
-* Add a link to the public document to README.md page
-* Add the PDF file to the appropriate year
+* Add a link to the public document to README.md page.
+* Add the PDF file to the appropriate year. If the document is only available in HTML, print a "clean" version (e.g. with [Readability](https://readability.com/), [Clearly](https://evernote.com/clearly/), or similar) to PDF and add that.
 
 Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md) for helping with the project!
 
