@@ -279,3 +279,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 06 - [Animals in the APT Farm](http://securelist.com/blog/research/69114/animals-in-the-apt-farm/)
 * Mar 06 - [Is Babar a Bunny?](https://www.f-secure.com/weblog/archives/00002794.html)
 * Mar 11 - [Inside the EquationDrug Espionage Platform](http://securelist.com/blog/research/69203/inside-the-equationdrug-espionage-platform/)
+* Mar 19 - [Rocket Kitten Showing Its Claws: Operation Woolen-GoldFish and the GHOLE campaign](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing)
