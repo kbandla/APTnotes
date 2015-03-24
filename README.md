@@ -191,6 +191,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Aug 29 - [Syrian Malware Team Uses BlackWorm for Attacks](http://www.fireeye.com/blog/technical/2014/08/connecting-the-dots-syrian-malware-team-uses-blackworm-for-attacks.html)
 * Sep 03 - [Darwin’s Favorite APT Group (APT12)](http://www.fireeye.com/blog/technical/botnet-activities-research/2014/09/darwins-favorite-apt-group-2.html)
 * Sep 04 - [Forced to Adapt: XSLCmd Backdoor Now on OS X](http://www.fireeye.com/blog/technical/malware-research/2014/09/forced-to-adapt-xslcmd-backdoor-now-on-os-x.html)
+* Sep 04 - [Gholee – a “Protective Edge” themed spear phishing campaign](http://www.clearskysec.com/gholee-a-protective-edge-themed-spear-phishing-campaign/)
 * Sep 08 - [Targeted Threat Index: Characterizingand Quantifying Politically-MotivatedTargeted Malware](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-hardy.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/hardy)
 * Sep 08 - [When Governments Hack Opponents: A Look at Actors and Technology](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-marczak.pdf) [video](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/marczak)
 * Sep 10 - [Operation Quantum Entanglement](http://www.fireeye.com/resources/pdfs/white-papers/fireeye-operation-quantum-entanglement.pdf)
