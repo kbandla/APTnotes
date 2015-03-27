@@ -70,7 +70,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * Apr 16 - [OSX.SabPub & Confirmed Mac APT attacks](http://securelist.com/blog/incidents/33208/new-version-of-osx-sabpub-confirmed-mac-apt-attacks-19/)
 * May 18 - [Analysis of Flamer C&C Server](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_flamer_newsforyou.pdf)
-* May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
+* May 22 - [IXESHE An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
 * May 31 - [sKyWIper (Flame/Flamer)](http://www.crysys.hu/skywiper/skywiper.pdf)
 * Jul 10 - [Advanced Social Engineering for the Distribution of LURK Malware](https://citizenlab.org/wp-content/uploads/2012/07/10-2012-recentobservationsintibet.pdf)
 * Jul 11 - [Wired article on DarkComet creator](http://www.wired.com/2012/07/dark-comet-syrian-spy-tool/)
