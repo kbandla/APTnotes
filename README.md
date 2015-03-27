@@ -85,7 +85,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Oct 08 - [Matasano notes on DarkComet, Bandook, CyberGate and Xtreme RAT](http://matasano.com/research/PEST-CONTROL.pdf)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
 * Nov 01 - [RECOVERING FROM SHAMOON](http://www.fidelissecurity.com/sites/default/files/FTA%201007%20-%20Shamoon.pdf)
-* Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://download01.norman.no/whitepapers/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
+* Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://cyber-peace.org/wp-content/uploads/2014/01/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
 
 ## 2013
 * Jan 14 - [The Red October Campaign](https://securelist.com/blog/incidents/57647/the-red-october-campaign)
