@@ -1,18 +1,16 @@
 # APT Notes
-This is a repository for various publicly-available documents and notes related to APT, sorted by year.
-For malware sample hashes, please see the individual reports
+This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
 ## Contributing
-For the moment, it would be nice to have a PDF of the article that we add to the
-list, just to be sure we always have a copy.
+For the moment, it would be nice to have a PDF of the article that we add to the list, just to be sure we always have a copy.
 
 To contribute, you can either:
-* Fork, add and send me a pull request
-* Open a ticket with the data you want to be added
+* Fork, add the report, and send in a pull request; or
+* Open an issue with the data you want to be added.
 
 Adding data:
-* Add a link to the public document to README.md page
-* Add the PDF file to the appropriate year
+* Add a link to the public document to README.md page.
+* Add the PDF file to the appropriate year. If the document is only available in HTML, print a "clean" version (e.g. with [Readability](https://readability.com/), [Clearly](https://evernote.com/clearly/), or similar) to PDF and add that.
 
 Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md) for helping with the project!
 
@@ -23,23 +21,24 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * ["Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf)
 
 ## 2008
-* Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf)
+* Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf) (OFFLINE)
 * Oct 02 - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
 * Nov 04 - [China's Electronic Long-Range Reconnaissance](http://fmso.leavenworth.army.mil/documents/chinas-electronic.pdf)
 * Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
 
 ## 2009
-* Jan 18 - [Impact of Alleged Russian Cyber Attacks](https://www.bdcol.ee/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf)
+* Jan 18 - [Impact of Alleged Russian Cyber Attacks](https://www.baltdefcol.org/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf)
 * Mar 29 - [Tracking GhostNet](http://www.nartv.org/mirror/ghostnet.pdf)
 
 ## 2010
 * Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
 * Jan 13 - [The Command Structure of the Aurora Botnet - Damballa](https://www.damballa.com/downloads/r_pubs/Aurora_Botnet_Command_Structure.pdf)
 * Jan 20 - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
-* Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf)
+* Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf) (OFFLINE)
 * Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf) (OFFLINE)
-* Feb 24 - [How Can I Tell if I Was Infected By Aurora? (IOCs)](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf)
-* Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052)
+* Feb 10 - [HB Gary Threat Report: Operation Aurora](http://hbgary.com/sites/default/files/publications/WhitePaper%20HBGary%20Threat%20Report,%20Operation%20Aurora.pdf)
+* Feb 24 - [How Can I Tell if I Was Infected By Aurora? (IOCs)](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE)
+* Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052) (OFFLINE)
 * Apr 06 - [Shadows in the cloud: Investigating Cyber Espionage 2.0](http://www.nartv.org/mirror/shadows-in-the-cloud.pdf)
 * Sep 03 - [The "MSUpdater" Trojan And Ongoing Targeted Attacks](http://www.seculert.com/reports/MSUpdaterTrojanWhitepaper.pdf)
 * Sep 30 - [W32.Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf)
@@ -71,7 +70,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * Apr 16 - [OSX.SabPub & Confirmed Mac APT attacks](http://securelist.com/blog/incidents/33208/new-version-of-osx-sabpub-confirmed-mac-apt-attacks-19/)
 * May 18 - [Analysis of Flamer C&C Server](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_flamer_newsforyou.pdf)
-* May 22 - [IXESHEA An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
+* May 22 - [IXESHE An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
 * May 31 - [sKyWIper (Flame/Flamer)](http://www.crysys.hu/skywiper/skywiper.pdf)
 * Jul 10 - [Advanced Social Engineering for the Distribution of LURK Malware](https://citizenlab.org/wp-content/uploads/2012/07/10-2012-recentobservationsintibet.pdf)
 * Jul 11 - [Wired article on DarkComet creator](http://www.wired.com/2012/07/dark-comet-syrian-spy-tool/)
@@ -84,7 +83,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Oct 08 - [Matasano notes on DarkComet, Bandook, CyberGate and Xtreme RAT](http://matasano.com/research/PEST-CONTROL.pdf)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
 * Nov 01 - [RECOVERING FROM SHAMOON](http://www.fidelissecurity.com/sites/default/files/FTA%201007%20-%20Shamoon.pdf)
-* Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://download01.norman.no/whitepapers/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
+* Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://cyber-peace.org/wp-content/uploads/2014/01/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
 
 ## 2013
 * Jan 14 - [The Red October Campaign](https://securelist.com/blog/incidents/57647/the-red-october-campaign)
@@ -138,7 +137,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dev 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
 * Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)
-* ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf)
+* ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE)
 * ??? ?? - [Detecting and Defeating the China Chopper Web Shell](http://www.fireeye.com/resources/pdfs/fireeye-china-chopper-report.pdf)
 
 ## 2014
@@ -243,7 +242,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 10 - [W64/Regin, Stage #1](https://www.f-secure.com/documents/996508/1030745/w64_regin_stage_1.pdf)
 * Dec 10 - [South Korea MBR Wiper](http://asec.ahnlab.com/1015)
 * Dec 12 - [Vinself now with steganography](http://blog.cybersecurity-airbusds.com/post/2014/12/Vinself)
-* Dec 12 - [Bots,	Machines,	and	the Matrix](http://www.fidelissecurity.com/sites/default/files/FTA_1014_Bots_Machines_and_the_Matrix.pdf)
+* Dec 12 - [Bots, Machines, and the Matrix](http://www.fidelissecurity.com/sites/default/files/FTA_1014_Bots_Machines_and_the_Matrix.pdf)
 * Dec 17 - [Wiper Malware – A Detection Deep Dive](http://blogs.cisco.com/security/talos/wiper-malware)
 * Dec 18 - [Malware Attack Targeting Syrian ISIS Critics](https://citizenlab.org/2014/12/malware-attack-targeting-syrian-isis-critics/)
 * Dec 19 - [TA14-353A: Targeted Destructive Malware (wiper)](https://www.us-cert.gov/ncas/alerts/TA14-353A)
@@ -277,5 +276,6 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 05 - [Casper Malware: After Babar and Bunny, Another Espionage Cartoon](http://www.welivesecurity.com/2015/03/05/casper-malware-babar-bunny-another-espionage-cartoon)
 * Mar 06 - [Animals in the APT Farm](http://securelist.com/blog/research/69114/animals-in-the-apt-farm/)
 * Mar 06 - [Is Babar a Bunny?](https://www.f-secure.com/weblog/archives/00002794.html)
+* Mar 10 - [Tibetan Uprising Day Malware Attacks](https://citizenlab.org/2015/03/tibetan-uprising-day-malware-attacks/)
 * Mar 11 - [Inside the EquationDrug Espionage Platform](http://securelist.com/blog/research/69203/inside-the-equationdrug-espionage-platform/)
 * Mar 19 - [Rocket Kitten Showing Its Claws: Operation Woolen-GoldFish and the GHOLE campaign](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing)
