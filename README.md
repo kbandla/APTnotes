@@ -48,7 +48,6 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 10 - [Global Energy Cyberattacks: Night Dragon](http://www.mcafee.com/us/resources/white-papers/wp-global-energy-cyberattacks-night-dragon.pdf)
 * Feb 18 - [Night Dragon Specific Protection Measures for Consideration](http://www.nerc.com/pa/rrm/bpsa/Alerts%20DL/2011%20Alerts/A-2011-02-18-01%20Night%20Dragon%20Attachment%201.pdf)
 * Apr 20 - [Stuxnet Under the Microscope](http://www.eset.com/us/resources/white-papers/Stuxnet_Under_the_Microscope.pdf)
-* Aug ?? - [Shady RAT](http://en.wikipedia.org/wiki/Operation_Shady_RAT)
 * Aug 04 - [Operation Shady RAT](http://www.mcafee.com/us/resources/white-papers/wp-operation-shady-rat.pdf)
 * Aug 02 - [Operation Shady rat : Vanity](http://www.vanityfair.com/culture/features/2011/09/operation-shady-rat-201109)
 * Aug 03 - [HTran and the Advanced Persistent Threat](http://www.secureworks.com/cyber-threat-intelligence/threats/htran/)
