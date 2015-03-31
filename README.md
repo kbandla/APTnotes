@@ -279,3 +279,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 10 - [Tibetan Uprising Day Malware Attacks](https://citizenlab.org/2015/03/tibetan-uprising-day-malware-attacks/)
 * Mar 11 - [Inside the EquationDrug Espionage Platform](http://securelist.com/blog/research/69203/inside-the-equationdrug-espionage-platform/)
 * Mar 19 - [Rocket Kitten Showing Its Claws: Operation Woolen-GoldFish and the GHOLE campaign](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing)
+* Mar 31 - [Volatile Cedar – Analysis of a Global Cyber Espionage Campaign](http://blog.checkpoint.com/2015/03/31/volatilecedar/)
