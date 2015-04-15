@@ -282,3 +282,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Mar 19 - [Rocket Kitten Showing Its Claws: Operation Woolen-GoldFish and the GHOLE campaign](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing)
 * Mar 31 - [Volatile Cedar – Analysis of a Global Cyber Espionage Campaign](http://blog.checkpoint.com/2015/03/31/volatilecedar/)
 * Apr 12 - [APT 30 and the Mechanics of a Long-Running Cyber Espionage Operation](https://www.fireeye.com/blog/threat-research/2015/04/apt_30_and_the_mecha.html)
+* Apr 15 - [The Chronicles of the Hellsing APT: the Empire Strikes Back](http://securelist.com/analysis/publications/69567/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/)
