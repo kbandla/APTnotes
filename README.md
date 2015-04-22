@@ -53,6 +53,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 12 - [APT 30 and the Mechanics of a Long-Running Cyber Espionage Operation](https://www.fireeye.com/blog/threat-research/2015/04/apt_30_and_the_mecha.html)
 * Apr 15 - [The Chronicles of the Hellsing APT: the Empire Strikes Back](http://securelist.com/analysis/publications/69567/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/)
 * Apr 21 - [The CozyDuke APT](http://securelist.com/blog/69731/the-cozyduke-apt)
+* Apr 22 - [CozyDuke](https://www.f-secure.com/weblog/archives/00002804.html)|(https://www.f-secure.com/documents/996508/1030745/CozyDuke)
 
 ## 2014
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
