@@ -284,3 +284,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 12 - [APT 30 and the Mechanics of a Long-Running Cyber Espionage Operation](https://www.fireeye.com/blog/threat-research/2015/04/apt_30_and_the_mecha.html)
 * Apr 15 - [The Chronicles of the Hellsing APT: the Empire Strikes Back](http://securelist.com/analysis/publications/69567/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/)
 * Apr 21 - [The CozyDuke APT](http://securelist.com/blog/69731/the-cozyduke-apt)
+* Apr 27 - [Attacks against Israeli & Palestinian interests](http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html)
