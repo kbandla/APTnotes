@@ -18,6 +18,7 @@ Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/con
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* May 13 - [SPEAR: Operation Sad Panda](http://blog.cylance.com/spear-operation-sad-panda)
 * Apr 27 - [Attacks against Israeli & Palestinian interests](http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html)
 * Apr 22 - [CozyDuke](https://www.f-secure.com/weblog/archives/00002804.html)|(https://www.f-secure.com/documents/996508/1030745/CozyDuke)
 * Apr 21 - [The CozyDuke APT](http://securelist.com/blog/69731/the-cozyduke-apt)
