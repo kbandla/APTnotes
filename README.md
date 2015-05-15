@@ -19,6 +19,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2015
 * May 13 - [SPEAR: Operation Sad Panda](http://blog.cylance.com/spear-operation-sad-panda)
+* May 07 - [Dissecting the Kraken](https://blog.gdatasoftware.com/blog/article/dissecting-the-kraken.html)
 * Apr 27 - [Attacks against Israeli & Palestinian interests](http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html)
 * Apr 22 - [CozyDuke](https://www.f-secure.com/documents/996508/1030745/CozyDuke)
 * Apr 21 - [The CozyDuke APT](http://securelist.com/blog/69731/the-cozyduke-apt)
