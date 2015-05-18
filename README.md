@@ -19,6 +19,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2015
 * May 14 - [Operation Tropic Trooper](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-tropic-trooper-old-vulnerabilities-still-pack-a-punch/)
+* May 14 - [The Naikon APT](https://securelist.com/analysis/publications/69953/the-naikon-apt/)
 * May 13 - [SPEAR: Operation Sad Panda](http://blog.cylance.com/spear-operation-sad-panda)
 * May 07 - [Dissecting the Kraken](https://blog.gdatasoftware.com/blog/article/dissecting-the-kraken.html)
 * Apr 27 - [Attacks against Israeli & Palestinian interests](http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html)
