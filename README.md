@@ -18,8 +18,12 @@ Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/con
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* May 14 - [Operation Tropic Trooper](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-tropic-trooper-old-vulnerabilities-still-pack-a-punch/)
+* May 14 - [The Naikon APT](https://securelist.com/analysis/publications/69953/the-naikon-apt/)
+* May 13 - [SPEAR: Operation Sad Panda](http://blog.cylance.com/spear-operation-sad-panda)
+* May 07 - [Dissecting the Kraken](https://blog.gdatasoftware.com/blog/article/dissecting-the-kraken.html)
 * Apr 27 - [Attacks against Israeli & Palestinian interests](http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html)
-* Apr 22 - [CozyDuke](https://www.f-secure.com/weblog/archives/00002804.html)|(https://www.f-secure.com/documents/996508/1030745/CozyDuke)
+* Apr 22 - [CozyDuke](https://www.f-secure.com/documents/996508/1030745/CozyDuke)
 * Apr 21 - [The CozyDuke APT](http://securelist.com/blog/69731/the-cozyduke-apt)
 * Apr 15 - [The Chronicles of the Hellsing APT: the Empire Strikes Back](http://securelist.com/analysis/publications/69567/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/)
 * Apr 12 - [APT 30 and the Mechanics of a Long-Running Cyber Espionage Operation](https://www.fireeye.com/blog/threat-research/2015/04/apt_30_and_the_mecha.html)
