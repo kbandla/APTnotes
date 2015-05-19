@@ -197,6 +197,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Jul 15 - [PlugX revisited: "Smoaler"](http://sophosnews.files.wordpress.com/2013/07/sophosszappanosplugxrevisitedintroducingsmoaler-rev1.pdf)
 * Jul 09 - [Dark Seoul Cyber Attack: Could it be worse?](http://cisak.perpika.kr/wp-content/uploads/2013/07/2013-08.pdf)
+* Jun 30 - [Targeted Campaign Steals Credentials in Gulf States and Caribbean](https://blogs.mcafee.com/mcafee-labs/targeted-campaign-steals-credentials-in-gulf-states-and-caribbean)
 * Jun 28 - [njRAT Uncovered](http://threatgeek.typepad.com/files/fta-1009---njrat-uncovered-1.pdf)
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
 * Jun 18 - [Trojan.APT.Seinup Hitting ASEAN](http://www.fireeye.com/blog/technical/malware-research/2013/06/trojan-apt-seinup-hitting-asean.html)
