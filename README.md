@@ -18,6 +18,7 @@ Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/con
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* May 21 - [The MsnMM Campaigns](https://kasperskycontenthub.com/securelist/files/2015/05/TheNaikonAPT-MsnMM1.pdf) 
 * May 19 - [Operation 'Oil Tanker'](http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf)
 * May 14 - [Operation Tropic Trooper](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-tropic-trooper-old-vulnerabilities-still-pack-a-punch/)
 * May 14 - [The Naikon APT](https://securelist.com/analysis/publications/69953/the-naikon-apt/)
