@@ -18,6 +18,7 @@ Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/con
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* May 26 - [Dissecting-Linux/Moose](http://www.welivesecurity.com/wp-content/uploads/2015/05/Dissecting-LinuxMoose.pdf)
 * May 21 - [The Naikon APT and the MsnMM Campaigns](https://securelist.com/blog/research/70029/the-naikon-apt-and-the-msnmm-campaigns/)
 * May 19 - [Operation 'Oil Tanker'](http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf)
 * May 14 - [Operation Tropic Trooper](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-tropic-trooper-old-vulnerabilities-still-pack-a-punch/)
