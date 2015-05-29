@@ -21,6 +21,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
 * May 21 - [The Naikon APT and the MsnMM Campaigns](https://securelist.com/blog/research/70029/the-naikon-apt-and-the-msnmm-campaigns/)
 * May 19 - [Operation 'Oil Tanker'](http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf)
+* May 18 - [Cmstar Downloader: Lurid and Enfal’s New Cousin](http://researchcenter.paloaltonetworks.com/2015/05/cmstar-downloader-lurid-and-enfals-new-cousin/)
 * May 14 - [Operation Tropic Trooper](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-tropic-trooper-old-vulnerabilities-still-pack-a-punch/)
 * May 14 - [The Naikon APT](https://securelist.com/analysis/publications/69953/the-naikon-apt/)
 * May 13 - [SPEAR: A Threat Actor Resurfaces](http://blog.cylance.com/spear-a-threat-actor-resurfaces)
