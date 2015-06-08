@@ -18,7 +18,7 @@ Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/con
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
-
+* Jun 04 - [Blue Thermite targeting Japan (CloudyOmega)](http://internet.watch.impress.co.jp/docs/news/20150604_705541.html)
 * Jun 03 - [Thamar Reservoir](http://www.clearskysec.com/thamar-reservoir/)
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
 * May 28 - [Grabit and the RATs](https://securelist.com/blog/research/70087/grabit-and-the-rats/)
