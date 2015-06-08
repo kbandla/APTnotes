@@ -18,8 +18,10 @@ Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/con
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
-* Jun 03 - [Thamar Reservoir]](http://www.clearskysec.com/thamar-reservoir/)
+
+* Jun 03 - [Thamar Reservoir](http://www.clearskysec.com/thamar-reservoir/)
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
+* May 28 - [Grabit and the RATs](https://securelist.com/blog/research/70087/grabit-and-the-rats/)
 * May 21 - [The Naikon APT and the MsnMM Campaigns](https://securelist.com/blog/research/70029/the-naikon-apt-and-the-msnmm-campaigns/)
 * May 19 - [Operation 'Oil Tanker'](http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf)
 * May 18 - [Cmstar Downloader: Lurid and Enfal’s New Cousin](http://researchcenter.paloaltonetworks.com/2015/05/cmstar-downloader-lurid-and-enfals-new-cousin/)
