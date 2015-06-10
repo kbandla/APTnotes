@@ -21,6 +21,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 <<<<<<< HEAD
 * May 21 - [The MsnMM Campaigns](https://kasperskycontenthub.com/securelist/files/2015/05/TheNaikonAPT-MsnMM1.pdf) 
 =======
+* Jun 10 - [The_Mystery_of_Duqu_2_0](https://securelist.com/files/2015/06/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf)
 * Jun 04 - [Blue Thermite targeting Japan (CloudyOmega)](http://internet.watch.impress.co.jp/docs/news/20150604_705541.html)
 * Jun 03 - [Thamar Reservoir](http://www.clearskysec.com/thamar-reservoir/)
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
