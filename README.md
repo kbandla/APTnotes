@@ -13,26 +13,39 @@ Adding data:
 * Add the PDF file to the appropriate year. If the document is only available in HTML, print a "clean" version (e.g. with [Readability](https://readability.com/), [Clearly](https://evernote.com/clearly/), or similar) to PDF and add that.
 
 Thanks to the [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md) for helping with the project!
+If you have any questions, please reach out to @krmaxwell or me.
 
 ## Papers
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
-* Jun 10 - [The_Mystery_of_Duqu_2_0](https://securelist.com/files/2015/06/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf)
+* Jun 30 - [Dino – the latest spying malware from an allegedly French espionage group analyzed](http://www.welivesecurity.com/2015/06/30/dino-spying-malware-analyzed)
+* Jun 24 - [UnFIN4ished Business (FIN4)](http://pwc.blogs.com/cyber_security_updates/2015/06/unfin4ished-business.html)
+* Jun 22 - [Winnti targeting pharmaceutical companies](https://securelist.com/blog/research/70991/games-are-over/)
+* Jun 16 - [Operation Lotus Bloom](https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html)
+* Jun 15 - [Targeted Attacks against Tibetan and Hong Kong Groups Exploiting CVE-2014-4114](https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/)
+* Jun 10 - [The_Mystery_of_Duqu_2_0](https://securelist.com/files/2015/06/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf) [IOC](https://securelist.com/files/2015/06/7c6ce6b6-fee1-4b7b-b5b5-adaff0d8022f.ioc) [Yara](https://securelist.com/files/2015/06/Duqu_2_Yara_rules.pdf)
+* Jun 10 - [Crysys Lab - Duqu 2.0](http://blog.crysys.hu/2015/06/duqu-2-0/)
 * Jun 04 - [Blue Thermite targeting Japan (CloudyOmega)](http://internet.watch.impress.co.jp/docs/news/20150604_705541.html)
 * Jun 03 - [Thamar Reservoir](http://www.clearskysec.com/thamar-reservoir/)
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
 * May 28 - [Grabit and the RATs](https://securelist.com/blog/research/70087/grabit-and-the-rats/)
+* May 27 - [Analysis On Apt-To-Be Attack That Focusing On China's Government Agency'](http://www.antiy.net/p/analysis-on-apt-to-be-attack-that-focusing-on-chinas-government-agency/)
+* May 26 - [Dissecting-Linux/Moose](http://www.welivesecurity.com/wp-content/uploads/2015/05/Dissecting-LinuxMoose.pdf)
 * May 21 - [The Naikon APT and the MsnMM Campaigns](https://securelist.com/blog/research/70029/the-naikon-apt-and-the-msnmm-campaigns/)
 * May 19 - [Operation 'Oil Tanker'](http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf)
 * May 18 - [Cmstar Downloader: Lurid and Enfal’s New Cousin](http://researchcenter.paloaltonetworks.com/2015/05/cmstar-downloader-lurid-and-enfals-new-cousin/)
 * May 14 - [Operation Tropic Trooper](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-tropic-trooper-old-vulnerabilities-still-pack-a-punch/)
 * May 14 - [The Naikon APT](https://securelist.com/analysis/publications/69953/the-naikon-apt/)
 * May 13 - [SPEAR: A Threat Actor Resurfaces](http://blog.cylance.com/spear-a-threat-actor-resurfaces)
+* May 12 - [root9B Uncovers Planned Sofacy Cyber Attack Targeting Several International and Domestic Financial Institutions](http://www.prnewswire.com/news-releases/root9b-uncovers-planned-sofacy-cyber-attack-targeting-several-international-and-domestic-financial-institutions-300081634.html)
 * May 07 - [Dissecting the Kraken](https://blog.gdatasoftware.com/blog/article/dissecting-the-kraken.html)
 * Apr 27 - [Attacks against Israeli & Palestinian interests](http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html)
 * Apr 22 - [CozyDuke](https://www.f-secure.com/documents/996508/1030745/CozyDuke)
 * Apr 21 - [The CozyDuke APT](http://securelist.com/blog/69731/the-cozyduke-apt)
+* Apr 20 - [Sofacy II – Same Sofacy, Different Day](http://pwc.blogs.com/cyber_security_updates/2015/04/the-sofacy-plot-thickens.html)
+* Apr 18 - [Operation RussianDoll: Adobe & Windows Zero-Day Exploits Likely Leveraged by Russia’s APT28 in Highly-Targeted Attack](https://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html)
+* Apr 16 - [Operation Pawn Storm Ramps Up its Activities; Targets NATO, White House](http://blog.trendmicro.com/trendlabs-security-intelligence/operation-pawn-storm-ramps-up-its-activities-targets-nato-white-house)
 * Apr 15 - [The Chronicles of the Hellsing APT: the Empire Strikes Back](http://securelist.com/analysis/publications/69567/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/)
 * Apr 12 - [APT 30 and the Mechanics of a Long-Running Cyber Espionage Operation](https://www.fireeye.com/blog/threat-research/2015/04/apt_30_and_the_mecha.html)
 * Mar 31 - [Volatile Cedar – Analysis of a Global Cyber Espionage Campaign](http://blog.checkpoint.com/2015/03/31/volatilecedar/)
@@ -203,6 +216,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jul 31 - [Secrets of the Comfoo Masters](http://www.secureworks.com/cyber-threat-intelligence/threats/secrets-of-the-comfoo-masters/)
 * Jul 15 - [PlugX revisited: "Smoaler"](http://sophosnews.files.wordpress.com/2013/07/sophosszappanosplugxrevisitedintroducingsmoaler-rev1.pdf)
 * Jul 09 - [Dark Seoul Cyber Attack: Could it be worse?](http://cisak.perpika.kr/wp-content/uploads/2013/07/2013-08.pdf)
+* Jun 30 - [Targeted Campaign Steals Credentials in Gulf States and Caribbean](https://blogs.mcafee.com/mcafee-labs/targeted-campaign-steals-credentials-in-gulf-states-and-caribbean)
 * Jun 28 - [njRAT Uncovered](http://threatgeek.typepad.com/files/fta-1009---njrat-uncovered-1.pdf)
 * Jun 21 - [A Call to Harm: New Malware Attacks Target the Syrian Opposition](https://citizenlab.org/wp-content/uploads/2013/07/19-2013-acalltoharm.pdf)
 * Jun 18 - [Trojan.APT.Seinup Hitting ASEAN](http://www.fireeye.com/blog/technical/malware-research/2013/06/trojan-apt-seinup-hitting-asean.html)
@@ -213,6 +227,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May 30 - [TR-14 - Analysis of a stage 3 Miniduke malware sample](http://www.circl.lu/pub/tr-14/)
 * May ?? - [Operation Hangover](https://www.bluecoat.com/security-blog/2013-05-20/hangover-report)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
+* Apr 21 - [MiniDuke - The Final Cut](http://labs.bitdefender.com/2013/04/miniduke-the-final-cut)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Mar 28 - [TR-12 - Analysis of a PlugX malware variant used for targeted attacks](http://www.circl.lu/pub/tr-12/)
