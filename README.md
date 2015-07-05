@@ -314,3 +314,4 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2006
 * ["Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf)
+
