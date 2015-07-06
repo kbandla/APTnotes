@@ -1,21 +1,15 @@
-.. APT Notes documentation master file, created by
-   sphinx-quickstart on Sun Jul  5 19:50:44 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to APT Notes!
-=====================================
+=====================
+APT Notes is a collection of various public documents, whitepapers and articles 
+about APT campaigns. All the information is based on publicly available data. 
 
-Contents:
+The .. github: https://github.com/kbandla/APTnotes repository contains the links,
+and an archived copy of the link. The documentation here is a seconday effort to
+better organize the data, and catalog various attacks and groups. 
 
+Contents
+==========
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
-
+    groups
