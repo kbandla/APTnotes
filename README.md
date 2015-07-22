@@ -20,6 +20,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2015
 * Jul 14 - [CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
+* Jul 13 - [Demonstrating Hustle, Chinese APT Groups Quickly Use Zero-Day Vulnerability (CVE-2015-5119) Following Hacking Team Leak](https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html)
 * Jun 30 - [Dino – the latest spying malware from an allegedly French espionage group analyzed](http://www.welivesecurity.com/2015/06/30/dino-spying-malware-analyzed)
 * Jun 28 - [APT on Taiwan - insight into advances of adversary TTPs](http://blog.dragonthreatlabs.com/2015/07/dtl-06282015-01-apt-on-taiwan-insight.html)
 * Jun 26 - [Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign](https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html)
