@@ -21,6 +21,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 ## 2015
 * Jun 30 - [Dino – the latest spying malware from an allegedly French espionage group analyzed](http://www.welivesecurity.com/2015/06/30/dino-spying-malware-analyzed)
 * Jun 28 - [APT on Taiwan - insight into advances of adversary TTPs](http://blog.dragonthreatlabs.com/2015/07/dtl-06282015-01-apt-on-taiwan-insight.html)
+* Jun 26 - [Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign](https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html)
 * Jun 24 - [UnFIN4ished Business (FIN4)](http://pwc.blogs.com/cyber_security_updates/2015/06/unfin4ished-business.html)
 * Jun 22 - [Winnti targeting pharmaceutical companies](https://securelist.com/blog/research/70991/games-are-over/)
 * Jun 16 - [Operation Lotus Bloom](https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html)
