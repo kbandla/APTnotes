@@ -21,6 +21,12 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 ## 2015
 * Jul 14 - [CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
 * Jul 13 - [Demonstrating Hustle, Chinese APT Groups Quickly Use Zero-Day Vulnerability (CVE-2015-5119) Following Hacking Team Leak](https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html)
+=======
+* Jul 20 - [Watering Hole Attack on Aerospace Firm Exploits CVE-2015-5122 to Install IsSpace Backdoor](http://researchcenter.paloaltonetworks.com/2015/07/watering-hole-attack-on-aerospace-firm-exploits-cve-2015-5122-to-install-isspace-backdoor/)
+* Jul 14 - [Tracking MiniDionis: CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
+* Jul 13 - ["Forkmeiamfamous": Seaduke, latest weapon in the Duke armory](http://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory)
+* Jul 09 - [Butterfly: Corporate spies out for financial gain](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/butterfly-corporate-spies-out-for-financial-gain.pdf)
+* Jul 08 - [Wild Neutron – Economic espionage threat actor returns with new tricks](https://securelist.com/blog/research/71275/wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/)
 * Jun 30 - [Dino – the latest spying malware from an allegedly French espionage group analyzed](http://www.welivesecurity.com/2015/06/30/dino-spying-malware-analyzed)
 * Jun 28 - [APT on Taiwan - insight into advances of adversary TTPs](http://blog.dragonthreatlabs.com/2015/07/dtl-06282015-01-apt-on-taiwan-insight.html)
 * Jun 26 - [Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign](https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html)
