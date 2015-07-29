@@ -22,7 +22,6 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jul 29 - [The Black Vine cyberespionage group](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf)
 * Jul 14 - [CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
 * Jul 13 - [Demonstrating Hustle, Chinese APT Groups Quickly Use Zero-Day Vulnerability (CVE-2015-5119) Following Hacking Team Leak](https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html)
-=======
 * Jul 20 - [Watering Hole Attack on Aerospace Firm Exploits CVE-2015-5122 to Install IsSpace Backdoor](http://researchcenter.paloaltonetworks.com/2015/07/watering-hole-attack-on-aerospace-firm-exploits-cve-2015-5122-to-install-isspace-backdoor/)
 * Jul 14 - [Tracking MiniDionis: CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
 * Jul 13 - ["Forkmeiamfamous": Seaduke, latest weapon in the Duke armory](http://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory)
