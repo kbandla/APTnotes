@@ -19,8 +19,11 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Jul 29 - [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](https://www2.fireeye.com/APT29-HAMMERTOSS-WEB-2015-RPT.html)
+* Jul 29 - [The Black Vine cyberespionage group](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf)
 * Jul 20 - [Watering Hole Attack on Aerospace Firm Exploits CVE-2015-5122 to Install IsSpace Backdoor](http://researchcenter.paloaltonetworks.com/2015/07/watering-hole-attack-on-aerospace-firm-exploits-cve-2015-5122-to-install-isspace-backdoor/)
 * Jul 14 - [Tracking MiniDionis: CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
+* Jul 13 - [Demonstrating Hustle, Chinese APT Groups Quickly Use Zero-Day Vulnerability (CVE-2015-5119) Following Hacking Team Leak](https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html)
 * Jul 13 - ["Forkmeiamfamous": Seaduke, latest weapon in the Duke armory](http://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory)
 * Jul 09 - [Butterfly: Corporate spies out for financial gain](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/butterfly-corporate-spies-out-for-financial-gain.pdf)
 * Jul 08 - [Wild Neutron – Economic espionage threat actor returns with new tricks](https://securelist.com/blog/research/71275/wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/)
