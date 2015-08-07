@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Aug 5 - [Threat Group-3390 Targets Organizations for Cyberespionage](http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/)
 * Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
 * Jul 28 - [Black Vine: Formidable cyberespionage group targeted aerospace, healthcare since 2012](http://www.symantec.com/connect/blogs/black-vine-formidable-cyberespionage-group-targeted-aerospace-healthcare-2012)
 * Jul 27 - [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](https://www.fireeye.com/blog/threat-research/2015/07/hammertoss_stealthy.html)
