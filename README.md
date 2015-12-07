@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Nov 23 -  [CopyKittens Attack Group](http://www.minerva-labs.com/#!CopyKittens-Attack-Group/c7a5/5655651e0cf20a760c4cae95)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
 * Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
 * Jul 28 - [Black Vine: Formidable cyberespionage group targeted aerospace, healthcare since 2012](http://www.symantec.com/connect/blogs/black-vine-formidable-cyberespionage-group-targeted-aerospace-healthcare-2012)
