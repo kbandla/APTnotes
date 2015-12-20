@@ -243,6 +243,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May ?? - [Operation Hangover](https://www.bluecoat.com/security-blog/2013-05-20/hangover-report)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
 * Apr 21 - [MiniDuke - The Final Cut](http://labs.bitdefender.com/2013/04/miniduke-the-final-cut)
+* Apr 18 - [New Targeted Attack On Taiwanese Government & Tibetan Activists Open Up a Can Of Worms - GrayPigeon, Hangame & Shiqiang gang](https://www.fireeye.com/blog/threat-research/2013/04/new-targeted-attack-on-taiwanese-government-tibetan-activists-open-up-a-can-of-worms-graypigeon-hangame-shiqiang-gang.html)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Mar 28 - [TR-12 - Analysis of a PlugX malware variant used for targeted attacks](http://www.circl.lu/pub/tr-12/)
