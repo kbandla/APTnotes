@@ -280,6 +280,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May 31 - [sKyWIper (Flame/Flamer)](http://www.crysys.hu/skywiper/skywiper.pdf)
 * May 22 - [IXESHE An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
 * May 18 - [Analysis of Flamer C&C Server](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_flamer_newsforyou.pdf)
+* May 15 - [The Shiqiang Gang](https://web.archive.org/web/20121030064334/http://blogs.norman.com/2012/security-research/the-shiqiang-gang)
 * Apr 16 - [OSX.SabPub & Confirmed Mac APT attacks](http://securelist.com/blog/incidents/33208/new-version-of-osx-sabpub-confirmed-mac-apt-attacks-19/)
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
