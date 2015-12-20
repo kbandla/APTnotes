@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Aug 20 - [PlugX Threat Activity in Myanmar](http://pages.arbornetworks.com/rs/082-KNA-087/images/ASERT%20Threat%20Intelligence%20Brief%202015-05%20PlugX%20Threat%20Activity%20in%20Myanmar.pdf)
 * Aug 20 - [New activity of the Blue Termite APT](https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/)
 * Aud 19 - [New Internet Explorer zero-day exploited in Hong Kong attacks](http://www.symantec.com/connect/blogs/new-internet-explorer-zero-day-exploited-hong-kong-attacks)
 * Aug 08 - [Poison Ivy and Links to an Extended PlugX Campaign](http://www.cyintanalysis.com/threat-analysis-poison-ivy-and-links-to-an-extended-plugx-campaign/)
