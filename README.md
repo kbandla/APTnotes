@@ -19,11 +19,13 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Aug 08 - [Poison Ivy and Links to an Extended PlugX Campaign](http://www.cyintanalysis.com/threat-analysis-poison-ivy-and-links-to-an-extended-plugx-campaign/)
 * Aug 05 - [Threat Group-3390 Targets Organizations for Cyberespionage](http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
 * Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
 * Jul 28 - [Black Vine: Formidable cyberespionage group targeted aerospace, healthcare since 2012](http://www.symantec.com/connect/blogs/black-vine-formidable-cyberespionage-group-targeted-aerospace-healthcare-2012)
 * Jul 27 - [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](https://www.fireeye.com/blog/threat-research/2015/07/hammertoss_stealthy.html)
+* Jul 23 - [PoisonIvy adapts to communicate through Authentication Proxies](http://blog.jpcert.or.jp/2015/07/poisonivy-adapts-to-communicate-through-authentication-proxies.html)
 * Jul 22 - [Duke APT group's latest tools: cloud services and Linux support](https://www.f-secure.com/weblog/archives/00002822.html)
 * Jul 20 - [China Hacks the Peace Palace: All Your EEZ’s Are Belong to Us](http://www.threatconnect.com/news/china-hacks-the-peace-palace-all-your-eezs-are-belong-to-us/)
 * Jul 20 - [Watering Hole Attack on Aerospace Firm Exploits CVE-2015-5122 to Install IsSpace Backdoor](http://researchcenter.paloaltonetworks.com/2015/07/watering-hole-attack-on-aerospace-firm-exploits-cve-2015-5122-to-install-isspace-backdoor/)
