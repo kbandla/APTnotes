@@ -20,6 +20,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2015
 * Aug 20 - [New activity of the Blue Termite APT](https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/)
+* Aud 19 - [New Internet Explorer zero-day exploited in Hong Kong attacks](http://www.symantec.com/connect/blogs/new-internet-explorer-zero-day-exploited-hong-kong-attacks)
 * Aug 08 - [Poison Ivy and Links to an Extended PlugX Campaign](http://www.cyintanalysis.com/threat-analysis-poison-ivy-and-links-to-an-extended-plugx-campaign/)
 * Aug 05 - [Threat Group-3390 Targets Organizations for Cyberespionage](http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
