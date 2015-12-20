@@ -185,6 +185,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May 20 - [Miniduke Twitter C&C](http://www.welivesecurity.com/2014/05/20/miniduke-still-duking/)
 * May 13 - [CrowdStrike's report on Flying Kitten](http://blog.crowdstrike.com/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/)
 * May 13 - [Operation Saffron Rose (aka Flying Kitten)](http://www.fireeye.com/resources/pdfs/fireeye-operation-saffron-rose.pdf)
+* May 02 - [Targeted Attacks, Stolen Certificates, and the Shiqiang Gang](https://blogs.mcafee.com/mcafee-labs/stolen-certificates-shiqiang-gang/)
 * Apr 26 - [CVE-2014-1776: Operation Clandestine Fox](https://www.fireeye.com/blog/threat-research/2014/05/operation-clandestine-fox-now-attacking-windows-xp-using-recently-discovered-ie-vulnerability.html)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
