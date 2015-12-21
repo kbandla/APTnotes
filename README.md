@@ -47,6 +47,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun 22 - [Winnti targeting pharmaceutical companies](https://securelist.com/blog/research/70991/games-are-over/)
 * Jun 16 - [Operation Lotus Bloom](https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html)
 * Jun 15 - [Targeted Attacks against Tibetan and Hong Kong Groups Exploiting CVE-2014-4114](https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/)
+* Jun 12 - [Afghan Government Compromise: Browser Beware](http://www.volexity.com/blog/?p=134)
 * Jun 10 - [The_Mystery_of_Duqu_2_0](https://securelist.com/files/2015/06/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf) [IOC](https://securelist.com/files/2015/06/7c6ce6b6-fee1-4b7b-b5b5-adaff0d8022f.ioc) [Yara](https://securelist.com/files/2015/06/Duqu_2_Yara_rules.pdf)
 * Jun 10 - [Crysys Lab - Duqu 2.0](http://blog.crysys.hu/2015/06/duqu-2-0/)
 * Jun 04 - [Blue Thermite targeting Japan (CloudyOmega)](http://internet.watch.impress.co.jp/docs/news/20150604_705541.html)
