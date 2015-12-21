@@ -19,6 +19,8 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Dec 08 - [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.org/2015/12/packrat-report/)
+* Dec 07 - [Financial Threat Group Targets Volume Boot Record](https://www.fireeye.com/blog/threat-research/2015/12/fin1-targets-boot-record.html)
 * Nov 24 - [Attack Campaign on the Government of Thailand Delivers Bookworm Trojan](http://researchcenter.paloaltonetworks.com/2015/11/attack-campaign-on-the-government-of-thailand-delivers-bookworm-trojan/)
 * Nov 18 - [Sakula Reloaded](http://www.crowdstrike.com/blog/sakula-reloaded/)
 * Nov 16 - [WitchCoven: Exploiting Web Analytics to Ensnare Victims](https://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf)
