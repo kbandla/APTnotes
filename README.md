@@ -20,6 +20,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 
 ## 2015
 * Nov 18 - [Sakula Reloaded](http://www.crowdstrike.com/blog/sakula-reloaded/)
+* Nov 16 - [WitchCoven: Exploiting Web Analytics to Ensnare Victims](https://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf)
 * Nov 10 - [Bookworm Trojan: A Model of Modular Architecture](https://www.readability.com/articles/jrmcu242)
 * Nov 09 - [Rocket Kitten: A Campaign With 9 Lives](http://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf)
 * Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/)
