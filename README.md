@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Sep 17 - [The Dukes: 7 Years of Russian Espionage](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
 * Sep 09 - [Satellite Turla: APT Command and Control in the Sky](https://securelist.com/blog/research/72081/satellite-turla-apt-command-and-control-in-the-sky/)
 * Sep 01 - [The Spy Kittens Are Back: Rocket Kitten 2](https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf)
 * Aug 20 - [PlugX Threat Activity in Myanmar](http://pages.arbornetworks.com/rs/082-KNA-087/images/ASERT%20Threat%20Intelligence%20Brief%202015-05%20PlugX%20Threat%20Activity%20in%20Myanmar.pdf)
