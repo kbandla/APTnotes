@@ -23,6 +23,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Dec 08 - [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.org/2015/12/packrat-report/)
 * Dec 07 - [Iran-based attackers use back door threats to spy on Middle Eastern targets](http://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets)
 * Dec 07 - [Financial Threat Group Targets Volume Boot Record](https://www.fireeye.com/blog/threat-research/2015/12/fin1-targets-boot-record.html)
+* Dec 01 - [China-based Cyber Threat Group Uses Dropbox for Malware Communications and Targets Hong Kong Media Outlets](https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html)
 * Nov 24 - [Attack Campaign on the Government of Thailand Delivers Bookworm Trojan](http://researchcenter.paloaltonetworks.com/2015/11/attack-campaign-on-the-government-of-thailand-delivers-bookworm-trojan/)
 * Nov 18 - [Sakula Reloaded](http://www.crowdstrike.com/blog/sakula-reloaded/)
 * Nov 16 - [WitchCoven: Exploiting Web Analytics to Ensnare Victims](https://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf)
