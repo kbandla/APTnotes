@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Sep 23 - [Project Camerashy: Closing The Aperture On China's Unit 78020](https://www.threatconnect.com/camerashy/)
 * Sep 17 - [The Dukes: 7 Years of Russian Espionage](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
 * Sep 16 - [Operation Iron Tiger](http://newsroom.trendmicro.com/blog/operation-iron-tiger-attackers-shift-east-asia-united-states)
 * Sep 15 - [Targeted Attack Distributes PlugX in Russia](https://www.proofpoint.com/us/threat-insight/post/PlugX-in-Russia)
