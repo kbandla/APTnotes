@@ -298,6 +298,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 16 - [OSX.SabPub & Confirmed Mac APT attacks](http://securelist.com/blog/incidents/33208/new-version-of-osx-sabpub-confirmed-mac-apt-attacks-19/)
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
+* Mar 21 - [From Georgia, with Love](http://blog.eset.com/2012/03/21/win32georbot-information-stealing-trojan-botnet-from-georgia-with-love)
 * Mar 13 - [Reversing DarkComet RAT's crypto](http://www.arbornetworks.com/asert/wp-content/uploads/2012/07/Crypto-DarkComet-Report.pdf)
 * Mar 12 - [Crouching Tiger, Hidden Dragon, Stolen Data](http://www.contextis.com/services/research/white-papers/crouching-tiger-hidden-dragon-stolen-data/)
 * Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
