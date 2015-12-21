@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Nov 10 - [Bookworm Trojan: A Model of Modular Architecture](https://www.readability.com/articles/jrmcu242)
 * Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/)
 * Sep 23 - [Project Camerashy: Closing The Aperture On China's Unit 78020](https://www.threatconnect.com/camerashy/)
 * Sep 17 - [The Dukes: 7 Years of Russian Espionage](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
