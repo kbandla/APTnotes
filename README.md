@@ -1,5 +1,5 @@
 # APT Notes
-This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
+This is a repository for various publicly-available documents and notes related to so-called "Advanced Persistent Threats" (APT), sorted by year. For malware sample hashes, please see the individual reports.
 
 ## Contributing
 For the moment, it would be nice to have a PDF of the article that we add to the list, just to be sure we always have a copy.
@@ -181,6 +181,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Sep 04 - [Gholee – a “Protective Edge” themed spear phishing campaign](http://www.clearskysec.com/gholee-a-protective-edge-themed-spear-phishing-campaign/)
 * Sep 04 - [Forced to Adapt: XSLCmd Backdoor Now on OS X](http://www.fireeye.com/blog/technical/malware-research/2014/09/forced-to-adapt-xslcmd-backdoor-now-on-os-x.html)
 * Sep 03 - [Darwin’s Favorite APT Group (APT12)](http://www.fireeye.com/blog/technical/botnet-activities-research/2014/09/darwins-favorite-apt-group-2.html)
+* Aug 30 - [Detecting and Defeating the China Chopper Web
 * Aug 29 - [Syrian Malware Team Uses BlackWorm for Attacks](http://www.fireeye.com/blog/technical/2014/08/connecting-the-dots-syrian-malware-team-uses-blackworm-for-attacks.html)
 * Aug 28 - [Scanbox: A Reconnaissance Framework Used with Watering Hole Attacks](https://www.alienvault.com/open-threat-exchange/blog/scanbox-a-reconnaissance-framework-used-on-watering-hole-attacks)
 * Aug 27 - [North Korea’s cyber threat landscape](http://h30499.www3.hp.com/hpeb/attachments/hpeb/off-by-on-software-security-blog/388/2/HPSR%20SecurityBriefing_Episode16_NorthKorea.pdf)
@@ -231,8 +232,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
 
 ## 2013
-* ??? ?? - [Detecting and Defeating the China Chopper Web Shell](http://www.fireeye.com/resources/pdfs/fireeye-china-chopper-report.pdf)
-* ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE)
+ Shell](http://www.fireeye.com/resources/pdfs/fireeye-china-chopper-report.pdf)
 * Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
 * Dev 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
@@ -282,6 +282,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 27 - [The MiniDuke Mystery: PDF 0-day Government Spy Assembler 0x29A Micro Backdoor](https://www.securelist.com/en/downloads/vlpdfs/themysteryofthepdf0-dayassemblermicrobackdoor.pdf)
 * Feb 26 - [Stuxnet 0.5: The Missing Link](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/stuxnet_0_5_the_missing_link.pdf)
 * Feb 22 - [Comment Crew: Indicators of Compromise](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/comment_crew_indicators_of_compromise.pdf)
+* Feb 21 - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE, Copy available via archive.org)
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
 * Jan 18 - [Operation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
