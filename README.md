@@ -1,6 +1,8 @@
 # APT Notes
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
+ +[![Join the chat at https://gitter.im/kbandla/APTnotes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kbandla/APTnotes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Contributing
 For the moment, it would be nice to have a PDF of the article that we add to the list, just to be sure we always have a copy.
 
