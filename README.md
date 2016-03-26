@@ -104,7 +104,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 16 - [Operation Arid Viper](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-arid-viper-bypassing-the-iron-dome)
 * Feb 16 - [The Carbanak APT](https://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)
 * Feb 16 - [Equation: The Death Star of Malware Galaxy](https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/)
-* Feb 10 - [CrowdStrike Global Threat Intel Report for 2014](http://go.crowdstrike.com/rs/crowdstrike/images/GlobalThreatIntelReport.pdf)
+* Feb 10 - [CrowdStrike Global Threat Intel Report for 2014](http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf)
 * Feb 04 - [Pawn Storm Update: iOS Espionage App Found](http://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-update-ios-espionage-app-found/)
 * Feb 02 - [Behind the Syrian Conflict’s Digital Frontlines](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-behind-the-syria-conflict.pdf)
 * Jan 29 - [Analysis of PlugX Variant - P2P PlugX ](http://blog.jpcert.or.jp/.s/2015/01/analysis-of-a-r-ff05.html)
