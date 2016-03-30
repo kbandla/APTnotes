@@ -18,3 +18,4 @@
 * srcr 
 * thoufique
 * mtivadar 
+* beast-fighter
