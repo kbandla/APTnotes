@@ -1,6 +1,8 @@
 # APT Notes
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
+#ATTENTION: THIS REPO WILL BE RETIRED ON 5/31/16 - please use https://github.com/aptnotes/data going forward - THANK YOU!
+
  +[![Join the chat at https://gitter.im/kbandla/APTnotes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kbandla/APTnotes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Contributing
