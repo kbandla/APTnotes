@@ -217,7 +217,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May 02 - [Targeted Attacks, Stolen Certificates, and the Shiqiang Gang](https://blogs.mcafee.com/mcafee-labs/stolen-certificates-shiqiang-gang/)
 * Apr 26 - [CVE-2014-1776: Operation Clandestine Fox](https://www.fireeye.com/blog/threat-research/2014/05/operation-clandestine-fox-now-attacking-windows-xp-using-recently-discovered-ie-vulnerability.html)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
-* Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
+* Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](www.baesystems.com/en/cybersecurity/feature/the-snake-campaign)
 * Mar 06 - [The Siesta Campaign](http://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/)
 * Feb 28 - [Uroburos: Highly complex espionage software with Russian roots](https://public.gdatasoftware.com/Web/Content/INT/Blog/2014/02_2014/documents/GData_Uroburos_RedPaper_EN_v1.pdf)
 * Feb 23 - [Gathering in the Middle East, Operation STTEAM](http://www.fidelissecurity.com/sites/default/files/FTA%201012%20STTEAM%20Final.pdf)
